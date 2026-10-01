@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **3,424 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **3,427 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,424, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 3,427, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Remote roles in every field, from employers' own career pages. **3,424 are live 
 
 | Company | Job title | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
+| JetBrains | [Support Engineer (TeamCity)](https://interviewchamp.ai/jobs/jetbrains-support-engineer-teamcity-4979567101?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs) | Boston, Massachusetts; Foster City, California; Marlton, New Jersey; Remote, United States (Remote) | $144k–$216k | Oct 1 |
+| Roblox | [Marketing Manager, MENAT](https://interviewchamp.ai/jobs/roblox-marketing-manager-menat-8230980?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs) | Remote (Remote) |  | Oct 1 |
+| Bjak | [Principal Software Engineer](https://interviewchamp.ai/jobs/bjakcareer-principal-software-engineer-785b11a6-5859-4432-b4bc-88142e3361c3?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs) | United States (Remote) |  | Oct 1 |
 | Bjak | [Lead Software Engineer](https://interviewchamp.ai/jobs/bjakcareer-lead-software-engineer-ff565823-b101-4f26-ba37-4c4be140d096?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs) | United States (Remote) |  | Oct 1 |
 | n8n | [Customer Success \| Team Lead \| Remote in California/Colorado/Texas](https://interviewchamp.ai/jobs/n8n-customer-success-team-lead-remote-in-california-colorado-texas-2666de32-b5e5-4935-b84b-c5e379e2ef9f?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs) | California (Remote) |  | Oct 1 |
 | Bjak | [Staff Software Engineer](https://interviewchamp.ai/jobs/bjakcareer-staff-software-engineer-82847f3f-7167-41cf-bae0-37bf9ab80a42?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs) | United States (Remote) |  | Oct 1 |
@@ -179,10 +182,7 @@ Remote roles in every field, from employers' own career pages. **3,424 are live 
 | CreatorIQ | [Customer Success Partner](https://interviewchamp.ai/jobs/creatoriq-customer-success-partner-5d7f0574-9c73-44cd-9fd5-98e4cbb1b4c6?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs) | New York (Remote) | $82k–$98k | Sep 30 |
 | Lendbuzz | [Dealership Account Manager - Sacramento, CA](https://interviewchamp.ai/jobs/lendbuzz-dealership-account-manager-sacramento-ca-db9081cb-9d78-42ef-bffa-631b8540a21b?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs) | Sacramento, California (Remote) | $80k–$175k | Sep 30 |
 | Jerry | [Remote Sales Representative - Fintech](https://interviewchamp.ai/jobs/jerry-ai-remote-sales-representative-fintech-a0ab9e2b-fee3-4b26-a5c9-2f7bcd13e910?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs) | Orlando, Florida (Remote) | From $100k | Sep 30 |
-| Jerry | [Remote Sales Agent (Insurtech Startup)](https://interviewchamp.ai/jobs/jerry-ai-remote-sales-agent-insurtech-startup-624d5756-ff29-4aff-8836-a62db458dadc?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs) | Las Vegas, Nevada (Remote) | From $100k | Sep 30 |
-| Agile Defense | [Senior Technical Integration Lead](https://interviewchamp.ai/jobs/agile-defense-senior-technical-integration-lead-fa11646b-f502-4338-8fc8-9d039061298e?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs) | Remote (Remote) | $140k–$190k | Sep 30 |
-| Parsley Health | [Senior Manager, Revenue Operations & Analytics](https://interviewchamp.ai/jobs/parsleyhealth-senior-manager-revenue-operations-analytics-8009795003?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs) | New York, New York, United States; Remote (Remote) | From $145k | Sep 30 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-01 08:41 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-01 09:38 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
