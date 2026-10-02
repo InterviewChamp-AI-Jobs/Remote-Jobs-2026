@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **3,646 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **3,647 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,646, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 3,647, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,9 +32,11 @@ Remote roles in every field, from employers' own career pages. **3,646 are live 
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[ShopBack](https://shopback.com)** | **[Software Engineer Intern](https://interviewchamp.ai/jobs/shopback-2-software-engineer-intern-e5f5e276-e7f7-43e0-a224-5259d242fe98?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | New York City, New York (Remote) | Remote |  | Oct 2 |
+| **[ShopBack](https://shopback.com)** | **[Software Engineer Intern](https://interviewchamp.ai/jobs/shopback-2-software-engineer-intern-640ac3fb-dae5-4738-95b9-9cb80cc7ad15?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco, California (Remote) | Remote |  | Oct 2 |
 | **[Profluent](https://job-boards.greenhouse.io/profluent)** | **[Creative Director](https://interviewchamp.ai/jobs/profluent-creative-director-5378164008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Emeryville, California, United States; Hybrid (2-3 days on-site); Remote (Remote) | Remote | $157k–$207k | Oct 2 |
 | **[Trust Wallet](https://trustwallet.com)** | **[Lead AI Engineer (LLM & Agents)](https://interviewchamp.ai/jobs/trust-wallet-lead-ai-engineer-llm-agents-87c32867-4e32-473c-b818-8eae0306f46a?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - Global (Remote) | Remote |  | Oct 2 |
-| **[MGT Insurance](https://jobs.ashbyhq.com/mgtinsurance)** | **[Head of Legal](https://interviewchamp.ai/jobs/mgtinsurance-head-of-legal-4d86b71c-ad5e-435c-8581-6471135a317c?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco, CA (Remote) | Remote | $195k–$275k | Oct 2 |
+| **[MGT Insurance](https://jobs.ashbyhq.com/mgtinsurance)** | **[Head of Legal](https://interviewchamp.ai/jobs/mgtinsurance-head-of-legal-4d86b71c-ad5e-435c-8581-6471135a317c?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco, CA (Remote) | Remote | $190k–$270k | Oct 2 |
 | **[MGT Insurance](https://jobs.ashbyhq.com/mgtinsurance)** | **[Head of Marketing](https://interviewchamp.ai/jobs/mgtinsurance-head-of-marketing-f7a713b4-68dc-4a42-91e8-d517c29c9f6c?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco, CA (Remote) | Remote | $190k–$260k | Oct 2 |
 | **[New Era Technology](https://job-boards.greenhouse.io/neweratech)** | **[Senior Microsoft Purview Engineer](https://interviewchamp.ai/jobs/neweratech-senior-microsoft-purview-engineer-8838104002?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (Remote) | Remote |  | Oct 2 |
 | **[Nectar Social](https://jobs.ashbyhq.com/nectar-social)** | **[Founding Mobile Engineer (React Native)](https://interviewchamp.ai/jobs/nectar-social-founding-mobile-engineer-react-native-81462c5a-84f4-406b-9ceb-e34c6cc10b4b?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - USA (Remote) | Remote | $200k–$400k | Oct 2 |
@@ -180,9 +182,7 @@ Remote roles in every field, from employers' own career pages. **3,646 are live 
 | **[DDN](https://jobs.ashbyhq.com/ddn)** | **[Staff Software Engineer, AiDP](https://interviewchamp.ai/jobs/ddn-staff-software-engineer-aidp-6c5b6ea2-d193-40b4-b57b-6ac26b5e24f7?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Santa Clara Office (Remote) | Remote | $200k–$250k | Oct 1 |
 | **[Reddit](https://reddit.com)** | **[Staff Machine Learning Engineer, Ads ML Efficiency](https://interviewchamp.ai/jobs/reddit-staff-machine-learning-engineer-ads-ml-efficiency-8247280?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - United States (Remote) | Remote | $230k–$322k | Oct 1 |
 | **[Replit](https://replit.com)** | **[Head of Marketing Strategy & Operations](https://interviewchamp.ai/jobs/replit-head-of-marketing-strategy-operations-9394684e-814c-4a3c-b5ed-19612e4331bc?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Foster City, CA (Remote) | Remote | $220k–$260k | Oct 1 |
-| **[Retell AI](https://retell.ai)** | **[Outbound Talent Sourcer (Recruiting SDR)](https://interviewchamp.ai/jobs/retell-ai-outbound-talent-sourcer-recruiting-sdr-e288dbb7-e819-4ca2-a20a-48ffa7b16310?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (Remote) | Remote |  | Oct 1 |
-| **[EMA](https://jobs.ashbyhq.com/ema)** | **[Sales Development Representative](https://interviewchamp.ai/jobs/ema-sales-development-representative-92df5996-9a62-4de1-b22f-eda4cffb422d?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote |  | Oct 1 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-02 06:43 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-02 09:38 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
