@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **4,825 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **4,826 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 4,825, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 4,826, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Remote roles in every field, from employers' own career pages. **4,825 are live 
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Plasmidsaurus](https://jobs.ashbyhq.com/plasmidsaurus)** | **[Product Manager \| Software](https://interviewchamp.ai/jobs/plasmidsaurus-product-manager-software-eb8223fb-6489-42ba-8cee-bc553e876fda?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco (Remote) | Remote | $175k–$235k | Oct 3 |
+| **[New Era Technology](https://job-boards.greenhouse.io/neweratech)** | **[Solution Executive, Managed Services](https://interviewchamp.ai/jobs/neweratech-solution-executive-managed-services-8842741002?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (Remote) | Remote |  | Oct 3 |
+| **[Shield AI](https://jobs.lever.co/shieldai)** | **[Staff Systems IT Engineer (R6157)](https://interviewchamp.ai/jobs/shieldai-staff-systems-it-engineer-r6157-3cf03a5f-d8a4-477e-94d7-6879618c5b3e?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (Remote) | Remote | $120k–$180k | Oct 3 |
 | **[Natera](https://job-boards.greenhouse.io/natera)** | **[Regional Customer Support Specialist](https://interviewchamp.ai/jobs/natera-regional-customer-support-specialist-6215912004?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | US Remote (Remote) | Remote |  | Oct 3 |
 | **[Natera](https://job-boards.greenhouse.io/natera)** | **[Customer Experience Assoc](https://interviewchamp.ai/jobs/natera-customer-experience-assoc-6215926004?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | US Remote (Remote) | Remote |  | Oct 3 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Founding GTM](https://interviewchamp.ai/jobs/clera-founding-gtm-60d8544a-ce0f-44c2-9802-0fcfe9b584d8?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | remote (Remote) | Remote | $50k–$70k | Oct 3 |
@@ -179,10 +182,7 @@ Remote roles in every field, from employers' own career pages. **4,825 are live 
 | **[Hippocratic AI](https://jobs.ashbyhq.com/Hippocratic%20AI)** | **[Deployment Strategist (York, PA)](https://interviewchamp.ai/jobs/hippocratic-ai-deployment-strategist-york-pa-893491f0-1107-4dd4-9819-334d73b85cb2?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | York, PA (Remote) | Remote |  | Oct 2 |
 | **[DDN](https://jobs.ashbyhq.com/ddn)** | **[Lead Engineer – Security Architecture](https://interviewchamp.ai/jobs/ddn-lead-engineer-security-architecture-0b8a43f8-b1a4-4701-a3c0-8a8c32508266?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Santa Clara Colocation (Remote) | Remote | $225k–$275k | Oct 2 |
 | **[G2](https://jobs.ashbyhq.com/G2)** | **[Senior Sales Strategy & Operations Manager](https://interviewchamp.ai/jobs/g2-senior-sales-strategy-operations-manager-bd2973aa-e360-4397-b8d9-7112bcc2d2a6?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (US) (Remote) | Remote | $145k–$175k | Oct 2 |
-| **[DDN](https://jobs.ashbyhq.com/ddn)** | **[Sr/Staff Lustre Engineer](https://interviewchamp.ai/jobs/ddn-sr-staff-lustre-engineer-718e22e3-436e-43a7-898f-7c0d7508ab20?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Santa Clara Colocation (Remote) | Remote |  | Oct 2 |
-| **[Ōura](https://ouraring.com)** | **[Manager, Partner Development (Health Plan and Employer)](https://interviewchamp.ai/jobs/oura-manager-partner-development-health-plan-and-employer-4424653009?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - United States (Remote) | Remote |  | Oct 2 |
-| **[Hippocratic AI](https://jobs.ashbyhq.com/Hippocratic%20AI)** | **[Vice President, Customer Success (Remote)](https://interviewchamp.ai/jobs/hippocratic-ai-vice-president-customer-success-remote-9abc27ae-17f2-4554-ae9d-4484ec2d3e41?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote |  | Oct 2 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-03 03:42 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-03 06:50 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
