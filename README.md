@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **4,826 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **4,825 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 4,826, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 4,825, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Remote roles in every field, from employers' own career pages. **4,826 are live 
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[The Lockwood Group, LLC](https://job-boards.greenhouse.io/lockwood)** | **[Strategic Partnership Operations Associate](https://interviewchamp.ai/jobs/lockwood-strategic-partnership-operations-associate-5256362007?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (Remote) | Remote |  | Oct 3 |
+| **[OpenLoop Health](https://jobs.ashbyhq.com/openloophealth)** | **[Corporate Counsel](https://interviewchamp.ai/jobs/openloophealth-corporate-counsel-4063d377-0411-4959-9901-cd893111c748?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States - Remote (Remote) | Remote |  | Oct 3 |
 | **[Plasmidsaurus](https://jobs.ashbyhq.com/plasmidsaurus)** | **[Product Manager \| Software](https://interviewchamp.ai/jobs/plasmidsaurus-product-manager-software-eb8223fb-6489-42ba-8cee-bc553e876fda?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco (Remote) | Remote | $175k–$235k | Oct 3 |
 | **[New Era Technology](https://job-boards.greenhouse.io/neweratech)** | **[Solution Executive, Managed Services](https://interviewchamp.ai/jobs/neweratech-solution-executive-managed-services-8842741002?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (Remote) | Remote |  | Oct 3 |
 | **[Shield AI](https://jobs.lever.co/shieldai)** | **[Staff Systems IT Engineer (R6157)](https://interviewchamp.ai/jobs/shieldai-staff-systems-it-engineer-r6157-3cf03a5f-d8a4-477e-94d7-6879618c5b3e?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (Remote) | Remote | $120k–$180k | Oct 3 |
@@ -85,7 +87,6 @@ Remote roles in every field, from employers' own career pages. **4,826 are live 
 | **[Blissway](https://jobs.ashbyhq.com/blissway)** | **[Finance and Operations Specialist](https://interviewchamp.ai/jobs/blissway-finance-and-operations-specialist-f8d12553-f80b-40f3-8dc2-7622bac878cb?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Denver, Colorado (Remote) | Remote | $135k–$180k | Oct 2 |
 | **[ASTRO PAK](https://job-boards.greenhouse.io/astropakllc)** | **[Technical Sales Manager](https://interviewchamp.ai/jobs/astropakllc-technical-sales-manager-4362272009?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (Remote) | Remote |  | Oct 2 |
 | **[BridgeBio Pharma](https://job-boards.greenhouse.io/bridgebio)** | **[Sr. Clinical Research Associate/Clinical trial Manager](https://interviewchamp.ai/jobs/bridgebio-sr-clinical-research-associate-clinical-trial-manager-5072941007?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - USA (Remote) | Remote | $145k–$177k | Oct 2 |
-| **[Ashby](https://jobs.ashbyhq.com/ashby)** | **[Recruiting Operations Consultant](https://interviewchamp.ai/jobs/ashby-recruiting-operations-consultant-56941cfb-f595-4df7-9051-d514fffbe113?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - US (Remote) | Remote |  | Oct 2 |
 | **[Vanta](https://vanta.com)** | **[Staff Software Engineer, Program Structure & Trust](https://interviewchamp.ai/jobs/vanta-staff-software-engineer-program-structure-trust-9962b3c8-f1c4-4ad1-9308-7c8df6a28b28?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote U.S. (Remote) | Remote | $260k–$306k | Oct 2 |
 | **[Pinterest](https://pinterest.com)** | **[Sr. Counsel](https://interviewchamp.ai/jobs/pinterest-sr-counsel-7494590?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, US (Remote) | Remote | $158.8k–$326.9k | Oct 2 |
 | **[Banner Bank](https://jobs.lever.co/bannerbank)** | **[Credit Analyst (remote WA)](https://interviewchamp.ai/jobs/bannerbank-credit-analyst-remote-wa-50a6aabd-1a95-4c63-94ac-aab3836b88ea?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Bellevue, Washington (Remote) | Remote |  | Oct 2 |
@@ -181,8 +182,7 @@ Remote roles in every field, from employers' own career pages. **4,826 are live 
 | **[ZoomInfo Technologies LLC](https://zoominfo.com)** | **[Principal Applied AI Engineer - Entity Agents](https://interviewchamp.ai/jobs/zoominfo-principal-applied-ai-engineer-entity-agents-8845484002?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (Remote) | Remote | $171.5k–$269.5k | Oct 2 |
 | **[Hippocratic AI](https://jobs.ashbyhq.com/Hippocratic%20AI)** | **[Deployment Strategist (York, PA)](https://interviewchamp.ai/jobs/hippocratic-ai-deployment-strategist-york-pa-893491f0-1107-4dd4-9819-334d73b85cb2?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | York, PA (Remote) | Remote |  | Oct 2 |
 | **[DDN](https://jobs.ashbyhq.com/ddn)** | **[Lead Engineer – Security Architecture](https://interviewchamp.ai/jobs/ddn-lead-engineer-security-architecture-0b8a43f8-b1a4-4701-a3c0-8a8c32508266?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Santa Clara Colocation (Remote) | Remote | $225k–$275k | Oct 2 |
-| **[G2](https://jobs.ashbyhq.com/G2)** | **[Senior Sales Strategy & Operations Manager](https://interviewchamp.ai/jobs/g2-senior-sales-strategy-operations-manager-bd2973aa-e360-4397-b8d9-7112bcc2d2a6?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (US) (Remote) | Remote | $145k–$175k | Oct 2 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-03 09:36 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-03 16:10 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
