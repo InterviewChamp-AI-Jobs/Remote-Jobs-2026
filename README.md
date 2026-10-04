@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **4,827 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **4,829 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 4,827, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 4,829, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Remote roles in every field, from employers' own career pages. **4,827 are live 
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Sentry](https://sentry.io)** | **[Staff Software Engineer, AI Developer Tooling](https://interviewchamp.ai/jobs/sentry-staff-software-engineer-ai-developer-tooling-c00e77f5-bd58-49da-b4a8-3b6249529747?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco, California (Remote) | Remote | $220k–$400k | Oct 4 |
+| **[Scribe](https://jobs.ashbyhq.com/scribe)** | **[Engineering Manager, QA](https://interviewchamp.ai/jobs/scribe-engineering-manager-qa-32e61aa7-38c3-4687-98af-143b21996159?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (EST) (Remote) | Remote | $150k–$220k | Oct 4 |
 | **[Voyager Technologies, Inc.](https://job-boards.greenhouse.io/voyagertechnologiesinc)** | **[Concur Systems Administrator](https://interviewchamp.ai/jobs/voyagertechnologiesinc-concur-systems-administrator-4410292009?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - United States (Remote) | Remote | $110k–$150k | Oct 3 |
 | **[Code Metal](https://jobs.ashbyhq.com/code-metal)** | **[Lead Backend Engineer (Modeling & Simulation)](https://interviewchamp.ai/jobs/code-metal-lead-backend-engineer-modeling-simulation-a6d25a63-446e-4c04-964b-775b6ee9e240?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Boston Hub (Remote) | Remote |  | Oct 3 |
 | **[Voyager Technologies, Inc.](https://job-boards.greenhouse.io/voyagertechnologiesinc)** | **[Revenue Operations Analyst](https://interviewchamp.ai/jobs/voyagertechnologiesinc-revenue-operations-analyst-4412089009?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - United States (Remote) | Remote | $115k–$135k | Oct 3 |
@@ -180,9 +182,7 @@ Remote roles in every field, from employers' own career pages. **4,827 are live 
 | **[Innodata Inc.](https://job-boards.greenhouse.io/innodatainc)** | **[Sales Development Representative](https://interviewchamp.ai/jobs/innodatainc-sales-development-representative-4431747009?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - United States (Remote) | Remote | $80k–$100k | Oct 2 |
 | **[stripe](https://stripe.com)** | **[Events Manager, Event Technology and Registration](https://interviewchamp.ai/jobs/stripe-events-manager-event-technology-and-registration-8222212?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote US (Remote) | Remote |  | Oct 2 |
 | **[Alchemy](https://jobs.ashbyhq.com/alchemy)** | **[Accounts Payable Specialist](https://interviewchamp.ai/jobs/alchemy-accounts-payable-specialist-f6e200ad-d6ac-401f-b029-d17b26909a47?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco (Remote) | Remote | $95k–$125k | Oct 2 |
-| **[WelbeHealth](https://job-boards.greenhouse.io/welbehealth)** | **[Quality Operations Coordinator](https://interviewchamp.ai/jobs/welbehealth-quality-operations-coordinator-8841048002?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, CA, USA (Remote) | Remote |  | Oct 2 |
-| **[TRM Labs](https://trmlabs.com)** | **[Strategic Finance Lead, R&D](https://interviewchamp.ai/jobs/trm-labs-strategic-finance-lead-r-d-c887dc78-8009-47a6-809c-3e75148a70b6?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote |  | Oct 2 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-04 00:06 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-04 03:53 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
