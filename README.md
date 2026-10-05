@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **4,828 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **4,827 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 4,828, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 4,827, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,9 +32,12 @@ Remote roles in every field, from employers' own career pages. **4,828 are live 
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Handshake](https://handshake.com)** | **[AI Red Teamer (Remote)](https://interviewchamp.ai/jobs/handshake-ai-red-teamer-remote-7788a34b-f112-467a-ba9a-b8245f8fccfb?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (USA) (Remote) | Remote |  | Oct 5 |
+| **[3Commas](https://3commas.io)** | **[Agentic AI Engineer](https://interviewchamp.ai/jobs/3commas-agentic-ai-engineer-5ad20b42-6b07-4c79-a383-d935a085b660?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (Remote) | Remote |  | Oct 5 |
 | **[Cyberhaven](https://cyberhaven.com)** | **[Director, Product Design](https://interviewchamp.ai/jobs/cyberhaven-director-product-design-7bfb921c-838f-4163-b2af-d5d1eae9460c?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | SF Bay Area (Remote) | Remote | $250k–$275k | Oct 5 |
 | **[Rain](https://jobs.ashbyhq.com/rain)** | **[Security Engineer - AppSec](https://interviewchamp.ai/jobs/rain-security-engineer-appsec-7e211b55-5069-45b2-8072-c6555a5b53cd?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (Remote) | Remote | $190k–$240k | Oct 5 |
 | **[Rillet](https://jobs.ashbyhq.com/rillet)** | **[Engineering Manager](https://interviewchamp.ai/jobs/rillet-engineering-manager-0210e455-5cdf-4ea0-b99e-65ba4843a09d?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco (Remote) | Remote | $230k–$300k | Oct 5 |
+| **[Agriculture, Rural Development](https://www.usajobs.gov)** | **[General Field Representative (Electric)](https://interviewchamp.ai/jobs/agriculture-rural-development-usajobs-general-field-representative-electric-887341500?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Anywhere in the U.S. (remote job), United States (Remote) | Remote | $89,508–$138,370 | Oct 5 |
 | **[Gen Digital](https://gendigital.com)** | **[Contract Recruiter](https://interviewchamp.ai/jobs/gen-digital-contract-recruiter-cdff49f3-1e29-4469-a6c0-db592babd573?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | USA - New York, NY (Remote) | Remote | $100k–$125k | Oct 4 |
 | **[Ambrook](https://ambrook.com)** | **[Software Engineer, AI](https://interviewchamp.ai/jobs/ambrook-software-engineer-ai-3b116b4f-d264-4ac4-92cb-deacdd7656ef?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco (Remote) | Remote | $115k–$280k | Oct 4 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Founding Engineer](https://interviewchamp.ai/jobs/clera-founding-engineer-bff6008f-ef02-4ee0-a652-75197445cf99?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | New York (Remote) | Remote | $150k–$220k | Oct 4 |
@@ -179,10 +182,7 @@ Remote roles in every field, from employers' own career pages. **4,828 are live 
 | **[GitLab](https://gitlab.com)** | **[Senior Product Manager, CRM & GTM Systems](https://interviewchamp.ai/jobs/gitlab-senior-product-manager-crm-gtm-systems-8855883002?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, United States (Remote) | Remote | $104.8k–$176.4k | Oct 2 |
 | **[CGS Federal](https://cgsfederal.com)** | **[English Contract Attorney](https://interviewchamp.ai/jobs/cgsfederal-english-contract-attorney-89141dea-9e31-4949-ad14-17c3da615683?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Chicago, IL (Remote) | Remote |  | Oct 2 |
 | **[CGS Federal](https://cgsfederal.com)** | **[English Contract Attorney](https://interviewchamp.ai/jobs/cgsfederal-english-contract-attorney-b0b21d66-61c5-416d-a722-1aba25356d98?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Dallas, TX (Remote) | Remote |  | Oct 2 |
-| **[CGS Federal](https://cgsfederal.com)** | **[English Contract Attorney](https://interviewchamp.ai/jobs/cgsfederal-english-contract-attorney-b3036215-e118-4552-b74d-a54dcefcd820?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Boston, MA (Remote) | Remote |  | Oct 2 |
-| **[Nova 401(k) Associates](https://job-boards.greenhouse.io/nova401)** | **[Entry Level Production Specialist](https://interviewchamp.ai/jobs/nova401-entry-level-production-specialist-5441261008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (Remote) | Remote | $52k–$55k | Oct 2 |
-| **[Newsela](https://newsela.com)** | **[Sales Development Representative (Remote, CA)](https://interviewchamp.ai/jobs/newsela-sales-development-representative-remote-ca-8233271?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - US (Remote) | Remote | $80k | Oct 2 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-05 03:40 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-05 06:49 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
