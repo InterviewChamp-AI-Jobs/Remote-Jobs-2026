@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **5,103 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **5,106 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 5,103, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 5,106, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,12 @@ Remote roles in every field, from employers' own career pages. **5,103 are live 
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Mendix](https://jobs.lever.co/mendix)** | **[Customer Stories Lead](https://interviewchamp.ai/jobs/mendix-customer-stories-lead-a4d52c53-76b7-4b4a-b418-3399595b0e33?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote | $102.5k–$184.5k | Oct 6 |
+| **[Zscaler](https://zscaler.com)** | **[Account Executive - Enterprise, Texas](https://interviewchamp.ai/jobs/zscaler-account-executive-enterprise-texas-5256620007?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - Texas, USA (Remote) | Remote | $140k–$170k | Oct 6 |
+| **[PostHog](https://posthog.com)** | **[Product Manager (ex-founder or ex-product engineer)](https://interviewchamp.ai/jobs/posthog-product-manager-ex-founder-or-ex-product-engineer-3c592b84-8b34-4ae4-ae23-cadce8f2212d?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (Remote) | Remote |  | Oct 6 |
+| **[GoNetspeed](https://jobs.lever.co/gonetspeed)** | **[OSP Licensing and Permitting Specialist](https://interviewchamp.ai/jobs/gonetspeed-osp-licensing-and-permitting-specialist-88951bc8-a3f7-4767-894d-46333f8ae82c?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Eastern Standard Time Zone-USA (Remote) | Remote |  | Oct 6 |
+| **[GitLab](https://gitlab.com)** | **[Strategic Account Executive, France](https://interviewchamp.ai/jobs/gitlab-strategic-account-executive-france-8868220002?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (Remote) | Remote |  | Oct 6 |
+| **[Welo Global](https://jobs.lever.co/weloglobal)** | **[Spanish (Spain) to English Pharmacovigilance Linguist](https://interviewchamp.ai/jobs/weloglobal-spanish-spain-to-english-pharmacovigilance-linguist-dd340c70-9cb6-40cd-a759-947805e6828b?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, Worldwide (Remote) | Remote |  | Oct 6 |
 | **[n8n](https://n8n.io)** | **[Customer Success Manager - Guided - West Coast](https://interviewchamp.ai/jobs/n8n-customer-success-manager-guided-west-coast-4b44cb99-be47-425c-bba6-8f9976c71ca8?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Washington State (Remote) | Remote | $106k–$181.5k | Oct 6 |
 | **[Nectar Social](https://jobs.ashbyhq.com/nectar-social)** | **[Event & Community Manager](https://interviewchamp.ai/jobs/nectar-social-event-community-manager-59adb511-9b9d-4c79-a0ba-8c1050c6b120?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Palo Alto, CA (Remote) | Remote | $130k–$180k | Oct 6 |
 | **[Socure](https://socure.com)** | **[Staff Data Scientist, DocV](https://interviewchamp.ai/jobs/socure-staff-data-scientist-docv-620b7759-fee1-41f4-ba74-592c1d063e55?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | California - Remote (Remote) | Remote | $191k–$230k | Oct 6 |
@@ -176,13 +182,7 @@ Remote roles in every field, from employers' own career pages. **5,103 are live 
 | **[Affect](https://job-boards.greenhouse.io/joinaffect)** | **[Arizona \| Addiction Counselor \| Telehealth](https://interviewchamp.ai/jobs/joinaffect-arizona-addiction-counselor-telehealth-5444102008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (Remote) | Remote |  | Oct 5 |
 | **[Affect](https://job-boards.greenhouse.io/joinaffect)** | **[Nebraska \| Mental Health Therapist \| Telehealth -- Full or Part Time Roles Available](https://interviewchamp.ai/jobs/joinaffect-nebraska-mental-health-therapist-telehealth-full-or-part-time-roles-available-5444101008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (Remote) | Remote |  | Oct 5 |
 | **[Affect](https://job-boards.greenhouse.io/joinaffect)** | **[New Mexico \| Addiction Counselor \| Telehealth](https://interviewchamp.ai/jobs/joinaffect-new-mexico-addiction-counselor-telehealth-5444098008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (Remote) | Remote | $55k–$75k | Oct 5 |
-| **[Motive](https://motive.com)** | **[Senior Recruiter, Tech / G&A](https://interviewchamp.ai/jobs/gomotive-senior-recruiter-tech-g-a-8864264002?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States - Remote (Remote) | Remote | $118k–$163k | Oct 5 |
-| **[Universal Robots](https://universal-robots.com)** | **[Sr Deployment Program Manager, Robotics](https://interviewchamp.ai/jobs/cobot-sr-deployment-program-manager-robotics-8eca602b-829f-4dc3-9c87-72e0dde600ff?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (Remote) | Remote | $150k–$180k | Oct 5 |
-| **[UiPath](https://uipath.com)** | **[Enterprise Account Executive, Retail Solutions, Peak](https://interviewchamp.ai/jobs/uipath-enterprise-account-executive-retail-solutions-peak-eedaccde-67e9-4ca7-be6d-1078ed7165cd?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | New York (Remote) | Remote | $140k–$180k | Oct 5 |
-| **[Evry Health](https://jobs.lever.co/evry-health)** | **[Commercial Health Customer Service Representative- Remote](https://interviewchamp.ai/jobs/evry-health-commercial-health-customer-service-representative-remote-2de50f5a-e86b-4298-aca0-c6cdfb9fd689?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (Remote) | Remote | $55k | Oct 5 |
-| **[NerdWallet](https://jobs.ashbyhq.com/nerdwallet)** | **[Senior Product Manager (Credit Cards)](https://interviewchamp.ai/jobs/nerdwallet-senior-product-manager-credit-cards-385270f3-9e74-4506-b139-3c416ac8e6c3?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | NerdWallet US (Remote) | Remote | $124k–$222k | Oct 5 |
-| **[Colibri Group](https://jobs.lever.co/colibrigroup)** | **[National Sales Manager](https://interviewchamp.ai/jobs/colibrigroup-national-sales-manager-8c3aabb1-9346-4939-90c4-fecfdeb68618?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | 1 Remote (Remote) | Remote |  | Oct 5 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-06 09:38 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-06 12:43 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
