@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **5,344 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **5,341 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 5,344, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 5,341, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -139,7 +139,6 @@ Remote roles in every field, from employers' own career pages. **5,344 are live 
 | **[KnowBe4](https://knowbe4.com)** | **[Software Engineer Intern (Remote)](https://interviewchamp.ai/jobs/knowbe4-software-engineer-intern-remote-8870749002?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (Remote) | Remote |  | Oct 6 |
 | **[Samsara](https://samsara.com)** | **[Strategic Events Marketing Manager](https://interviewchamp.ai/jobs/samsara-strategic-events-marketing-manager-8243226?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - CA (Remote) | Remote | $79.1k–$119.7k | Oct 6 |
 | **[Power Digital](https://job-boards.greenhouse.io/powerdigitalmarketing)** | **[Director, Events & Experiences](https://interviewchamp.ai/jobs/powerdigitalmarketing-director-events-experiences-5259500007?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - United States (Remote) | Remote |  | Oct 6 |
-| **[Gen Digital](https://gendigital.com)** | **[Principal Product Designer](https://interviewchamp.ai/jobs/gen-digital-principal-product-designer-ff02930a-13a9-43a9-bfd3-f06acc0f4821?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | USA - New York, NY (Remote) | Remote | $150k–$200k | Oct 6 |
 | **[Databricks](https://databricks.com)** | **[Solutions Architect - Retail, Consumer Goods, Travel & Hospitality](https://interviewchamp.ai/jobs/databricks-solutions-architect-retail-consumer-goods-travel-hospitality-8615016002?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Central - United States; Northeast - United States; Remote - New York; Southeast - United States (Remote) | Remote | $180k–$247.5k | Oct 6 |
 | **[Patriot Growth Insurance Services, LLC](https://job-boards.greenhouse.io/patriotgrowthinsuranceservicesllc)** | **[SVP, National Property & Casualty Practice Leader](https://interviewchamp.ai/jobs/patriotgrowthinsuranceservicesllc-svp-national-property-casualty-practice-leader-4434272009?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (Remote) | Remote | $315k–$415k | Oct 6 |
 | **[airbnb](https://airbnb.com)** | **[Staff Software Engineer, Payments (AirCover Insurance Platform)](https://interviewchamp.ai/jobs/airbnb-staff-software-engineer-payments-aircover-insurance-platform-8259526?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - USA (Remote) | Remote | $212k–$265k | Oct 6 |
@@ -182,7 +181,8 @@ Remote roles in every field, from employers' own career pages. **5,344 are live 
 | **[GuidePoint Security](https://boards.greenhouse.io/guidepointsecurity)** | **[Application Security Engineer - Southeast region](https://interviewchamp.ai/jobs/guidepointsecurity-application-security-engineer-southeast-region-6218520004?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (Remote) | Remote |  | Oct 6 |
 | **[Stand Together](https://jobs.lever.co/standtogether)** | **[KIP Spring 2027 - Programs Outreach Intern - Foundation for Economic Education](https://interviewchamp.ai/jobs/standtogether-kip-spring-2027-programs-outreach-intern-foundation-for-economic-education-b46a3ae5-18a1-40e3-ba75-a97fb42bf3dd?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Georgia (Remote) | Remote | $5.5k–$7.5k | Oct 6 |
 | **[CodeRabbit](https://coderabbit.ai)** | **[Commercial Field Engineer – Post-sales - (East Coast)](https://interviewchamp.ai/jobs/coderabbit-commercial-field-engineer-post-sales-east-coast-5a8919e5-f4ac-41f2-a5d9-c28c841770d9?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Boston, MA (Remote) | Remote |  | Oct 6 |
+| **[Ashby](https://jobs.ashbyhq.com/ashby)** | **[AI Outbound Marketing Manager](https://interviewchamp.ai/jobs/ashby-ai-outbound-marketing-manager-6a6184ee-abc9-4a58-8ca3-4221d809a9ab?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - US (Remote) | Remote | $120k–$165k | Oct 6 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-07 06:44 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-07 09:39 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
