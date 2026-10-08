@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **5,545 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **5,547 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 5,545, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 5,547, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Remote roles in every field, from employers' own career pages. **5,545 are live 
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Kayak](https://kayak.com)** | **[Senior Manager, Supplier Relations (K4B)](https://interviewchamp.ai/jobs/kayak-senior-manager-supplier-relations-k4b-0d7a09da-21ef-4ca8-8e87-60c2193294ab?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | New York Office (Remote) | Remote |  | Oct 8 |
+| **[Neo4j](https://neo4j.com)** | **[Corporate Account Executive](https://interviewchamp.ai/jobs/neo4j-corporate-account-executive-4720046006?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote: New York City | Remote | $200k–$240k | Oct 8 |
+| **[Apollo.io](https://apollo.io)** | **[Business Recruiter](https://interviewchamp.ai/jobs/apolloio-business-recruiter-6220136004?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, United States | Remote | $160k–$180k | Oct 8 |
 | **[Datavant](https://www.datavant.com)** | **[Customer Insights Analyst](https://interviewchamp.ai/jobs/datavant2-customer-insights-analyst-5437834008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - United States | Remote | $80k–$100k | Oct 8 |
 | **[Datavant](https://www.datavant.com)** | **[Onsite Travel Specialist](https://interviewchamp.ai/jobs/datavant2-onsite-travel-specialist-5441801008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - United States | Remote | $62k–$72k | Oct 8 |
 | **[Plasmidsaurus](https://jobs.ashbyhq.com/plasmidsaurus)** | **[IT Administrator](https://interviewchamp.ai/jobs/plasmidsaurus-it-administrator-4fab86ab-d0e1-4de7-9c83-0e87f5022f3e?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco (Remote) | Remote |  | Oct 8 |
@@ -179,10 +182,7 @@ Remote roles in every field, from employers' own career pages. **5,545 are live 
 | **[OpenAI](https://jobs.ashbyhq.com/openai)** | **[Education Content Marketing Lead](https://interviewchamp.ai/jobs/openai-education-content-marketing-lead-96f3c3a6-9951-4db7-8125-8c0f16e8af62?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco (Remote) | Remote | $333k–$370k | Oct 7 |
 | **[Sierra Club](https://jobs.lever.co/sierraclub)** | **[Editorial Fellow](https://interviewchamp.ai/jobs/sierraclub-editorial-fellow-1c4bc583-ecc7-4052-af92-03b64d08e536?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Oakland, CA (Remote) | Remote |  | Oct 7 |
 | **[Everpure](https://everpure.com)** | **[Account Executive, SLED (South)](https://interviewchamp.ai/jobs/purestorage-account-executive-sled-south-8234322?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, Texas | Remote | $130k–$208k | Oct 7 |
-| **[ElevenLabs](https://elevenlabs.io)** | **[Account Manager - Corporate](https://interviewchamp.ai/jobs/elevenlabs-account-manager-corporate-4e544a96-ed24-42c0-ba70-7f0bab6ffbb2?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote |  | Oct 7 |
-| **[Cribl](https://cribl.io)** | **[Regional Sales Manager, Chicago (Strategic)](https://interviewchamp.ai/jobs/cribl-regional-sales-manager-chicago-strategic-6216908004?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - Chicago, Illinois | Remote | $160k–$175k | Oct 7 |
-| **[Think Academy US](https://job-boards.greenhouse.io/thinkacademyus)** | **[AMC Math Competition Tutor](https://interviewchamp.ai/jobs/thinkacademyus-amc-math-competition-tutor-8015996003?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote |  | Oct 7 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-08 06:46 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-08 09:39 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
