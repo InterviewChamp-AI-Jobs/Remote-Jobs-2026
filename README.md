@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **5,540 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **5,545 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 5,540, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 5,545, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,10 @@ Remote roles in every field, from employers' own career pages. **5,540 are live 
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Datavant](https://www.datavant.com)** | **[Customer Insights Analyst](https://interviewchamp.ai/jobs/datavant2-customer-insights-analyst-5437834008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - United States | Remote | $80k–$100k | Oct 8 |
+| **[Datavant](https://www.datavant.com)** | **[Onsite Travel Specialist](https://interviewchamp.ai/jobs/datavant2-onsite-travel-specialist-5441801008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - United States | Remote | $62k–$72k | Oct 8 |
+| **[Plasmidsaurus](https://jobs.ashbyhq.com/plasmidsaurus)** | **[IT Administrator](https://interviewchamp.ai/jobs/plasmidsaurus-it-administrator-4fab86ab-d0e1-4de7-9c83-0e87f5022f3e?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco (Remote) | Remote |  | Oct 8 |
+| **[Mistral AI](https://mistral.ai)** | **[Engineering Manager, Partnerships](https://interviewchamp.ai/jobs/mistral-ai-engineering-manager-partnerships-a8b2c1c3-17a9-49a1-9fb4-238f339814aa?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | New York (Remote) | Remote |  | Oct 8 |
 | **[Artera](https://jobs.lever.co/artera)** | **[Machine Learning Engineer (Model Dev)](https://interviewchamp.ai/jobs/artera-machine-learning-engineer-model-dev-e69fa8b3-ecad-4f6a-b8b6-77d6542dfbe1?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote-US | Remote | $140k–$180k | Oct 8 |
 | **[Chainguard](https://chainguard.dev)** | **[Senior Product Security Engineer](https://interviewchamp.ai/jobs/chainguard-senior-product-security-engineer-4716922006?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States - Remote | Remote | $157k–$184k | Oct 8 |
 | **[OpenAI](https://jobs.ashbyhq.com/openai)** | **[Accounting Manager](https://interviewchamp.ai/jobs/openai-accounting-manager-848c5e55-422c-4797-add4-22e0e6511a47?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco (Remote) | Remote | $162k–$180k | Oct 8 |
@@ -178,11 +182,7 @@ Remote roles in every field, from employers' own career pages. **5,540 are live 
 | **[ElevenLabs](https://elevenlabs.io)** | **[Account Manager - Corporate](https://interviewchamp.ai/jobs/elevenlabs-account-manager-corporate-4e544a96-ed24-42c0-ba70-7f0bab6ffbb2?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote |  | Oct 7 |
 | **[Cribl](https://cribl.io)** | **[Regional Sales Manager, Chicago (Strategic)](https://interviewchamp.ai/jobs/cribl-regional-sales-manager-chicago-strategic-6216908004?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - Chicago, Illinois | Remote | $160k–$175k | Oct 7 |
 | **[Think Academy US](https://job-boards.greenhouse.io/thinkacademyus)** | **[AMC Math Competition Tutor](https://interviewchamp.ai/jobs/thinkacademyus-amc-math-competition-tutor-8015996003?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote |  | Oct 7 |
-| **[Think Academy US](https://job-boards.greenhouse.io/thinkacademyus)** | **[1-on-1 Math Tutor for Grades 9-12](https://interviewchamp.ai/jobs/thinkacademyus-1-on-1-math-tutor-for-grades-9-12-8015993003?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote |  | Oct 7 |
-| **[Think Academy US](https://job-boards.greenhouse.io/thinkacademyus)** | **[1-on-1 Math Tutor for Grades 5-8](https://interviewchamp.ai/jobs/thinkacademyus-1-on-1-math-tutor-for-grades-5-8-8015989003?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote |  | Oct 7 |
-| **[Twilio](https://twilio.com)** | **[Sr. Program Manager, Talent Development](https://interviewchamp.ai/jobs/twilio-sr-program-manager-talent-development-8262150?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - US | Remote |  | Oct 7 |
-| **[Airwallex](https://airwallex.com)** | **[Account Manager, SME & Growth](https://interviewchamp.ai/jobs/airwallex-account-manager-sme-growth-75912bed-6dce-4f40-903b-e21ef9edd5ad?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | US - San Francisco (Remote) | Remote | $174k–$249k | Oct 7 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-08 03:39 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-08 06:46 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
