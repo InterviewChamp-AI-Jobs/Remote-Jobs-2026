@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **10,497 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **10,501 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 10,497, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 10,501, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,11 @@ Remote roles in every field, from employers' own career pages. **10,497 are live
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Basis](https://jobs.lever.co/basis)** | **[Office & Administrative Coordinator](https://interviewchamp.ai/jobs/basis-office-administrative-coordinator-108fc4a6-002d-406c-ab2a-25b8b9aa2cf6?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Chicago, IL (Remote) | Remote | $59k–$65k | Oct 10 |
+| **[Beacon Biosignals](https://job-boards.greenhouse.io/beaconbiosignals)** | **[Sleep Scoring Technologist – RPSGT (PRN – Remote)](https://interviewchamp.ai/jobs/beaconbiosignals-sleep-scoring-technologist-rpsgt-prn-remote-4444850009?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote |  | Oct 10 |
+| **[Fictiv](https://fictiv.com)** | **[Account Executive - Emerging Accounts - Southeast](https://interviewchamp.ai/jobs/fictiv-account-executive-emerging-accounts-southeast-8880927002?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - USA | Remote | From $75k | Oct 10 |
+| **[Fictiv](https://fictiv.com)** | **[Account Executive - Emerging Accounts - Northeast](https://interviewchamp.ai/jobs/fictiv-account-executive-emerging-accounts-northeast-8880957002?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - USA | Remote | From $75k | Oct 10 |
+| **[Luma Health](https://job-boards.greenhouse.io/lumahealth)** | **[Sales Engineer](https://interviewchamp.ai/jobs/lumahealth-sales-engineer-8882744002?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote USA | Remote | $120k–$140k | Oct 10 |
 | **[Openart](https://jobs.ashbyhq.com/openart)** | **[Senior Content Marketing writer, Enterprise](https://interviewchamp.ai/jobs/openart-senior-content-marketing-writer-enterprise-dc21f48c-bf67-46d2-a345-7d0814422141?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Carlos, California, USA (Remote) | Remote | $150k–$200k | Oct 10 |
 | **[Fieldguide](https://fieldguide.com)** | **[Staff Product Designer](https://interviewchamp.ai/jobs/fieldguide-staff-product-designer-4240b29f-15c9-4378-a262-7edf9470711c?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (USA) | Remote | $200k–$225k | Oct 10 |
 | **[Fieldguide](https://fieldguide.com)** | **[Senior Product Designer](https://interviewchamp.ai/jobs/fieldguide-senior-product-designer-ab7564c4-8fb2-4cf5-8e54-228e84874328?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (USA) | Remote | $165k–$185k | Oct 10 |
@@ -177,12 +182,7 @@ Remote roles in every field, from employers' own career pages. **10,497 are live
 | **[LeoLabs, Inc.](https://job-boards.greenhouse.io/leolabsinc)** | **[Radar Product Manager](https://interviewchamp.ai/jobs/leolabsinc-radar-product-manager-4444479009?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote | $171k–$194k | Oct 9 |
 | **[LeoLabs, Inc.](https://job-boards.greenhouse.io/leolabsinc)** | **[Senior Site Reliability Engineer (SRE)](https://interviewchamp.ai/jobs/leolabsinc-senior-site-reliability-engineer-sre-4443975009?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote | $171k–$192k | Oct 9 |
 | **[CookUnity](https://cookunity.com)** | **[Clinical Supervisor, RDN (Part-time)](https://interviewchamp.ai/jobs/cookunity-clinical-supervisor-rdn-part-time-8020684003?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote |  | Oct 9 |
-| **[Workingfamilies](https://jobs.lever.co/workingfamilies)** | **[Data Manager](https://interviewchamp.ai/jobs/workingfamilies-data-manager-6fd0e1cc-ce3a-420d-a92f-fd3816c3d064?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote | $64.9k–$109k | Oct 9 |
-| **[Prenuvo](https://app.careerpuck.com)** | **[Director, Brand Design](https://interviewchamp.ai/jobs/prenuvo-director-brand-design-4742420005?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, USA | Remote | $180k–$210k | Oct 9 |
-| **[Prenuvo](https://app.careerpuck.com)** | **[Staff Product Manager, Growth & E-commerce Experimentation](https://interviewchamp.ai/jobs/prenuvo-staff-product-manager-growth-e-commerce-experimentation-4742421005?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, USA | Remote | $161.5k–$190k | Oct 9 |
-| **[Tradeify](https://jobs.ashbyhq.com/tradeify)** | **[Senior Front-End Engineer](https://interviewchamp.ai/jobs/tradeify-senior-front-end-engineer-aac85a58-50b4-40c3-8e68-42d0176e9b6b?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Boca Raton, FL (Remote) | Remote | $120k–$155k | Oct 9 |
-| **[Prenuvo](https://app.careerpuck.com)** | **[Senior Frontend Engineer I - eCommerce](https://interviewchamp.ai/jobs/prenuvo-senior-frontend-engineer-i-ecommerce-4742430005?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, USA | Remote | $145k–$170k | Oct 9 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-10 09:37 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-10 12:43 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
