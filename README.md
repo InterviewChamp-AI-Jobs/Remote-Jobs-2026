@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **10,493 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **10,497 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 10,493, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 10,497, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,10 @@ Remote roles in every field, from employers' own career pages. **10,493 are live
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Openart](https://jobs.ashbyhq.com/openart)** | **[Senior Content Marketing writer, Enterprise](https://interviewchamp.ai/jobs/openart-senior-content-marketing-writer-enterprise-dc21f48c-bf67-46d2-a345-7d0814422141?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Carlos, California, USA (Remote) | Remote | $150k–$200k | Oct 10 |
+| **[Fieldguide](https://fieldguide.com)** | **[Staff Product Designer](https://interviewchamp.ai/jobs/fieldguide-staff-product-designer-4240b29f-15c9-4378-a262-7edf9470711c?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (USA) | Remote | $200k–$225k | Oct 10 |
+| **[Fieldguide](https://fieldguide.com)** | **[Senior Product Designer](https://interviewchamp.ai/jobs/fieldguide-senior-product-designer-ab7564c4-8fb2-4cf5-8e54-228e84874328?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (USA) | Remote | $165k–$185k | Oct 10 |
+| **[Vynca](https://jobs.ashbyhq.com/vynca)** | **[Sr. Human Resources Business Partner](https://interviewchamp.ai/jobs/vynca-sr-human-resources-business-partner-25baf730-8372-4981-9e61-7a146413cf67?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - United States | Remote | $115k–$135k | Oct 10 |
 | **[Princeton10](https://jobs.lever.co/princeton10)** | **[Project Director](https://interviewchamp.ai/jobs/princeton10-project-director-0034797a-fd1d-4bf1-b120-afac2dc0c965?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | New York, NY (Remote) | Remote | $140k–$165k | Oct 10 |
 | **[Wpromote](https://jobs.lever.co/wpromote)** | **[Senior Manager, Strategic Partnerships](https://interviewchamp.ai/jobs/wpromote-senior-manager-strategic-partnerships-52f7af5c-8803-41af-b4d3-3afd936e90bd?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, United States | Remote | $110k–$130k | Oct 10 |
 | **[Runway Ml](https://jobs.ashbyhq.com/runway-ml)** | **[Copywriter, Product Marketing](https://interviewchamp.ai/jobs/runway-ml-copywriter-product-marketing-386d468e-2a49-4901-877d-d2bf6b33abd1?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote | $130k–$200k | Oct 10 |
@@ -178,11 +182,7 @@ Remote roles in every field, from employers' own career pages. **10,493 are live
 | **[Prenuvo](https://app.careerpuck.com)** | **[Staff Product Manager, Growth & E-commerce Experimentation](https://interviewchamp.ai/jobs/prenuvo-staff-product-manager-growth-e-commerce-experimentation-4742421005?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, USA | Remote | $161.5k–$190k | Oct 9 |
 | **[Tradeify](https://jobs.ashbyhq.com/tradeify)** | **[Senior Front-End Engineer](https://interviewchamp.ai/jobs/tradeify-senior-front-end-engineer-aac85a58-50b4-40c3-8e68-42d0176e9b6b?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Boca Raton, FL (Remote) | Remote | $120k–$155k | Oct 9 |
 | **[Prenuvo](https://app.careerpuck.com)** | **[Senior Frontend Engineer I - eCommerce](https://interviewchamp.ai/jobs/prenuvo-senior-frontend-engineer-i-ecommerce-4742430005?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, USA | Remote | $145k–$170k | Oct 9 |
-| **[Vynca](https://jobs.ashbyhq.com/vynca)** | **[Patient Access Coordinator](https://interviewchamp.ai/jobs/vynca-patient-access-coordinator-52453826-fdaa-4fa2-82c8-6043382b3ba9?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - United States | Remote |  | Oct 9 |
-| **[Pariveda](https://jobs.ashbyhq.com/pariveda)** | **[Software Engineer II](https://interviewchamp.ai/jobs/pariveda-software-engineer-ii-48cfdabe-9dcc-4324-8e07-4a5ddf3af2e1?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Dallas (Remote) | Remote | $79.8k–$87.8k | Oct 9 |
-| **[Ironclad](https://ironcladapp.com)** | **[Software Engineer II, Developer Productivity](https://interviewchamp.ai/jobs/ironcladhq-software-engineer-ii-developer-productivity-9af62746-1c31-44d7-b2a7-faf6eefeffc1?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco (Remote) | Remote | $150k–$165k | Oct 9 |
-| **[Talkiatry](https://jobs.ashbyhq.com/talkiatry)** | **[Senior Manager, Dyad Enablement](https://interviewchamp.ai/jobs/talkiatry-senior-manager-dyad-enablement-f123c667-a034-45e6-8442-552c5137de55?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Hybrid (Remote) | Remote | $120k–$165k | Oct 9 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-10 03:39 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-10 06:43 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
