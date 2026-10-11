@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **10,511 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **10,513 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 10,511, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 10,513, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Remote roles in every field, from employers' own career pages. **10,511 are live
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Faros AI](https://jobs.ashbyhq.com/faros-ai)** | **[Lead Software Engineer - Frontend](https://interviewchamp.ai/jobs/faros-ai-lead-software-engineer-frontend-8f94a7f5-6cc1-4f3a-b939-8d52dbdbcd32?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Redwood City (Remote) | Remote | $210k–$250k | Oct 11 |
+| **[Aera Technology](https://aera.tech)** | **[Client Partner \| Enterprise Platform Sales (copy)](https://interviewchamp.ai/jobs/aeratechnology-client-partner-enterprise-platform-sales-copy-55004e19-b653-427e-af36-b2f364b58b5f?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Chicago, IL, USA (Remote) | Remote | $170k–$190k | Oct 11 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Founding Product Designer/Engineer](https://interviewchamp.ai/jobs/clera-founding-product-designer-engineer-e67943d6-36a4-4807-929a-f6996618540a?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | New York (Remote) | Remote | $160k–$220k | Oct 11 |
 | **[Snowflake](https://snowflake.com)** | **[Staff Software Engineer – Engineering Systems, Continuous Integration Team](https://interviewchamp.ai/jobs/snowflake-staff-software-engineer-engineering-systems-continuous-integration-team-f38ad1b0-00a6-490d-afcf-80a78c8b8aed?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | US-WA-Bellevue (Remote) | Remote | $236k–$339.2k | Oct 11 |
 | **[Snowflake](https://snowflake.com)** | **[Senior Technical Program Manager - ML/AI](https://interviewchamp.ai/jobs/snowflake-senior-technical-program-manager-ml-ai-2d66e411-c782-43d5-9ad5-389c4407f9c6?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | US-CA-Menlo Park (Remote) | Remote | $166k–$238k | Oct 10 |
@@ -180,9 +182,7 @@ Remote roles in every field, from employers' own career pages. **10,511 are live
 | **[Savvy](https://jobs.ashbyhq.com/savvy)** | **[AI Strategy & Ops Manager](https://interviewchamp.ai/jobs/savvy-ai-strategy-ops-manager-5d0ca027-6f85-4b1b-9f3a-02cc99cb5772?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | NYC Office (Remote) | Remote | $130k–$140k | Oct 9 |
 | **[Samsara](https://samsara.com)** | **[Senior Creative Program Manager](https://interviewchamp.ai/jobs/samsara-senior-creative-program-manager-8261809?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - Seattle | Remote | $115.7k–$175.1k | Oct 9 |
 | **[General Assembly](https://job-boards.greenhouse.io/generalassembly)** | **[Technical Lead Learning Experience Designer - U.S. (30 hours/week)](https://interviewchamp.ai/jobs/generalassembly-technical-lead-learning-experience-designer-u-s-30-hours-week-8268476?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | U.S. Remote | Remote |  | Oct 9 |
-| **[General Assembly](https://job-boards.greenhouse.io/generalassembly)** | **[Technical Lead Learning Experience Designer - U.K. (30 hours/week)](https://interviewchamp.ai/jobs/generalassembly-technical-lead-learning-experience-designer-u-k-30-hours-week-8268820?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | U.K. Remote | Remote |  | Oct 9 |
-| **[EnCharge AI](https://job-boards.greenhouse.io/enchargeai36)** | **[Senior Marketing Manager - Narrative and Launch](https://interviewchamp.ai/jobs/enchargeai36-senior-marketing-manager-narrative-and-launch-4436241009?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | US Remote | Remote | $135k–$165k | Oct 9 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-11 03:40 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-11 06:45 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
