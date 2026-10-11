@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **10,513 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **10,512 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 10,513, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 10,512, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Remote roles in every field, from employers' own career pages. **10,513 are live
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[CuspAI](https://jobs.ashbyhq.com/cuspai)** | **[Foundry Technical Program Manager (Materials Foundry)](https://interviewchamp.ai/jobs/cuspai-foundry-technical-program-manager-materials-foundry-3c79fd66-fba0-4e52-b2b3-d1f1b3700885?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | West Coast, US (Remote) | Remote |  | Oct 11 |
 | **[Faros AI](https://jobs.ashbyhq.com/faros-ai)** | **[Lead Software Engineer - Frontend](https://interviewchamp.ai/jobs/faros-ai-lead-software-engineer-frontend-8f94a7f5-6cc1-4f3a-b939-8d52dbdbcd32?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Redwood City (Remote) | Remote | $210k–$250k | Oct 11 |
 | **[Aera Technology](https://aera.tech)** | **[Client Partner \| Enterprise Platform Sales (copy)](https://interviewchamp.ai/jobs/aeratechnology-client-partner-enterprise-platform-sales-copy-55004e19-b653-427e-af36-b2f364b58b5f?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Chicago, IL, USA (Remote) | Remote | $170k–$190k | Oct 11 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Founding Product Designer/Engineer](https://interviewchamp.ai/jobs/clera-founding-product-designer-engineer-e67943d6-36a4-4807-929a-f6996618540a?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | New York (Remote) | Remote | $160k–$220k | Oct 11 |
@@ -181,8 +182,7 @@ Remote roles in every field, from employers' own career pages. **10,513 are live
 | **[TeleMed2U](https://job-boards.greenhouse.io/telemed2u)** | **[Nephrology PA or NP with CA License - Fully Virtual Opportunity](https://interviewchamp.ai/jobs/telemed2u-nephrology-pa-or-np-with-ca-license-fully-virtual-opportunity-4444560009?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote | $110k–$130k | Oct 9 |
 | **[Savvy](https://jobs.ashbyhq.com/savvy)** | **[AI Strategy & Ops Manager](https://interviewchamp.ai/jobs/savvy-ai-strategy-ops-manager-5d0ca027-6f85-4b1b-9f3a-02cc99cb5772?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | NYC Office (Remote) | Remote | $130k–$140k | Oct 9 |
 | **[Samsara](https://samsara.com)** | **[Senior Creative Program Manager](https://interviewchamp.ai/jobs/samsara-senior-creative-program-manager-8261809?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - Seattle | Remote | $115.7k–$175.1k | Oct 9 |
-| **[General Assembly](https://job-boards.greenhouse.io/generalassembly)** | **[Technical Lead Learning Experience Designer - U.S. (30 hours/week)](https://interviewchamp.ai/jobs/generalassembly-technical-lead-learning-experience-designer-u-s-30-hours-week-8268476?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | U.S. Remote | Remote |  | Oct 9 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-11 09:38 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-11 12:44 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
