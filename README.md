@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **10,510 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **10,511 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 10,510, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 10,511, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Remote roles in every field, from employers' own career pages. **10,510 are live
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Snowflake](https://snowflake.com)** | **[Senior Technical Program Manager - ML/AI](https://interviewchamp.ai/jobs/snowflake-senior-technical-program-manager-ml-ai-2d66e411-c782-43d5-9ad5-389c4407f9c6?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | US-CA-Menlo Park (Remote) | Remote | $166k–$238k | Oct 10 |
 | **[Ambient.ai](https://jobs.ashbyhq.com/ambient.ai)** | **[Technical Recruiter](https://interviewchamp.ai/jobs/ambient-ai-technical-recruiter-7cc0ac0c-fe15-4b7f-b140-7c51d186288c?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Redwood City (Remote) | Remote | $135k–$150k | Oct 10 |
 | **[AJ Boggs/ProPower](https://job-boards.greenhouse.io/ajboggs)** | **[Technical Business Analyst](https://interviewchamp.ai/jobs/ajboggs-technical-business-analyst-4444883009?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote | From $72k | Oct 10 |
 | **[incident.io](https://jobs.ashbyhq.com/incident)** | **[Account Executive](https://interviewchamp.ai/jobs/incident-account-executive-1b8769d0-f4ee-4f13-be95-0696e40df628?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | New York (Remote) | Remote | $170k–$200k | Oct 10 |
@@ -181,8 +182,7 @@ Remote roles in every field, from employers' own career pages. **10,510 are live
 | **[General Assembly](https://job-boards.greenhouse.io/generalassembly)** | **[Technical Lead Learning Experience Designer - U.K. (30 hours/week)](https://interviewchamp.ai/jobs/generalassembly-technical-lead-learning-experience-designer-u-k-30-hours-week-8268820?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | U.K. Remote | Remote |  | Oct 9 |
 | **[EnCharge AI](https://job-boards.greenhouse.io/enchargeai36)** | **[Senior Marketing Manager - Narrative and Launch](https://interviewchamp.ai/jobs/enchargeai36-senior-marketing-manager-narrative-and-launch-4436241009?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | US Remote | Remote | $135k–$165k | Oct 9 |
 | **[TeleMed2U](https://job-boards.greenhouse.io/telemed2u)** | **[Neurology PA with CA License - Fully Virtual FTE](https://interviewchamp.ai/jobs/telemed2u-neurology-pa-with-ca-license-fully-virtual-fte-4444550009?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote |  | Oct 9 |
-| **[Mercer Advisors](https://job-boards.greenhouse.io/merceradvisors)** | **[Vice President, Trading, Operations & Billing](https://interviewchamp.ai/jobs/merceradvisors-vice-president-trading-operations-billing-5449119008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, USA | Remote | $250k–$300k | Oct 9 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-10 21:36 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-11 00:48 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
