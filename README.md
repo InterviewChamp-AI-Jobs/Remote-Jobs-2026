@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **10,501 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **10,497 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 10,501, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 10,497, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,11 @@ Remote roles in every field, from employers' own career pages. **10,501 are live
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Kled AI](https://jobs.ashbyhq.com/kled-ai)** | **[Research Scientist, Benchmarks & Evals](https://interviewchamp.ai/jobs/kled-ai-research-scientist-benchmarks-evals-6e94d99f-fc21-4253-883a-32679b2e31ab?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote | $150k–$250k | Oct 11 |
+| **[Azurity Pharmaceuticals - US](https://job-boards.greenhouse.io/azuritypharmaceuticals)** | **[Institutional Business Manager - Connecticut](https://interviewchamp.ai/jobs/azuritypharmaceuticals-institutional-business-manager-connecticut-4741743005?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - US | Remote |  | Oct 11 |
+| **[Azurity Pharmaceuticals - US](https://job-boards.greenhouse.io/azuritypharmaceuticals)** | **[Institutional Business Manager - Central Valley, CA](https://interviewchamp.ai/jobs/azuritypharmaceuticals-institutional-business-manager-central-valley-ca-4741739005?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - US | Remote |  | Oct 11 |
+| **[Nivoda](https://jobs.ashbyhq.com/Nivoda)** | **[Senior AI/ML Engineer](https://interviewchamp.ai/jobs/nivoda-senior-ai-ml-engineer-65b7d93b-a5b1-408e-a5d8-e2edade5b59e?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | US (Remote) | Remote |  | Oct 11 |
+| **[Nivoda](https://jobs.ashbyhq.com/Nivoda)** | **[Senior Fullstack Engineer, Growth](https://interviewchamp.ai/jobs/nivoda-senior-fullstack-engineer-growth-04d28b9f-c8a5-4dec-a12d-f3a3b8240c6c?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | US (Remote) | Remote | $200k–$280k | Oct 11 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Account Executive](https://interviewchamp.ai/jobs/clera-account-executive-3531382d-f383-45c4-b084-8873cc4b6fa5?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Chicago (Remote) | Remote |  | Oct 11 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Principal Product Manager, AI Platform](https://interviewchamp.ai/jobs/clera-principal-product-manager-ai-platform-f143b60b-2b7b-489a-a35e-24a3df1bfce8?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | remote | Remote | $160k–$230k | Oct 11 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Head of Product Marketing](https://interviewchamp.ai/jobs/clera-head-of-product-marketing-7f610861-c259-4a71-8715-ca4f60dd9295?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | remote | Remote | $180k–$225k | Oct 11 |
@@ -177,12 +182,7 @@ Remote roles in every field, from employers' own career pages. **10,501 are live
 | **[Higgsfield](https://jobs.ashbyhq.com/higgsfieldai)** | **[Systems Engineer (Ironclad), Legal Ops](https://interviewchamp.ai/jobs/higgsfieldai-systems-engineer-ironclad-legal-ops-9fe9c9e3-1d57-4971-ae00-1b8046cb4b3a?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, USA | Remote |  | Oct 9 |
 | **[Terac](https://jobs.ashbyhq.com/terac)** | **[Hospitalists and Family Medicine Physicians: AI Diagnosis Review](https://interviewchamp.ai/jobs/terac-hospitalists-and-family-medicine-physicians-ai-diagnosis-review-5112693f-e8c4-4fe5-a7e8-96e8c536ad68?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote |  | Oct 9 |
 | **[Ncontracts](https://jobs.ashbyhq.com/ncontracts)** | **[Sales Enablement Program Lead](https://interviewchamp.ai/jobs/ncontracts-sales-enablement-program-lead-a6606e5f-dd14-4dde-b38f-6d2a2cd2aa90?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Nashville, United States (Remote) | Remote | $95k–$110k | Oct 9 |
-| **[Clover Health](https://job-boards.greenhouse.io/cloverhealth)** | **[Clinical Field Scheduling & Logistics Specialist](https://interviewchamp.ai/jobs/cloverhealth-clinical-field-scheduling-logistics-specialist-8268809?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - USA | Remote | $57.7k–$75k | Oct 9 |
-| **[Epoch AI](https://jobs.lever.co/epoch-ai)** | **[AI Enablement Manager](https://interviewchamp.ai/jobs/epoch-ai-ai-enablement-manager-1d8d2e53-1ee7-492e-8f02-f8b52ef19cca?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote | $125k–$155k | Oct 9 |
-| **[PlayStation Global](https://playstation.com)** | **[Tableau Developer, People Analytics (Contract)](https://interviewchamp.ai/jobs/sonyinteractiveentertainmentglobal-tableau-developer-people-analytics-contract-6215600004?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States, Remote | Remote |  | Oct 9 |
-| **[TeleMed2U](https://job-boards.greenhouse.io/telemed2u)** | **[Nephrology PA or NP with CA License - Fully Virtual Opportunity](https://interviewchamp.ai/jobs/telemed2u-nephrology-pa-or-np-with-ca-license-fully-virtual-opportunity-4444560009?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote | $110k–$130k | Oct 9 |
-| **[Savvy](https://jobs.ashbyhq.com/savvy)** | **[AI Strategy & Ops Manager](https://interviewchamp.ai/jobs/savvy-ai-strategy-ops-manager-5d0ca027-6f85-4b1b-9f3a-02cc99cb5772?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | NYC Office (Remote) | Remote | $130k–$140k | Oct 9 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-11 18:41 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-11 21:37 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
