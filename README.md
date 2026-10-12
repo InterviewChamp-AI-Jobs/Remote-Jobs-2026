@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **10,486 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **10,484 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 10,486, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 10,484, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,10 @@ Remote roles in every field, from employers' own career pages. **10,486 are live
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[ElevenLabs](https://elevenlabs.io)** | **[Growth Marketer- Reception.ai](https://interviewchamp.ai/jobs/elevenlabs-growth-marketer-reception-ai-8f79181f-192d-45d9-a8c3-ce3f533b7d7a?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote |  | Oct 12 |
+| **[Cadence Solutions](https://job-boards.greenhouse.io/solutions)** | **[Payroll Specialist](https://interviewchamp.ai/jobs/solutions-payroll-specialist-4720864006?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | remote | Remote |  | Oct 12 |
+| **[Cadence Solutions](https://job-boards.greenhouse.io/solutions)** | **[Leave of Absence Specialist](https://interviewchamp.ai/jobs/solutions-leave-of-absence-specialist-4720863006?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote |  | Oct 12 |
+| **[Sparrow](https://jobs.ashbyhq.com/sparrow)** | **[Account Manager](https://interviewchamp.ai/jobs/sparrow-account-manager-2fa1c7ae-7853-41bb-a10a-4ce7b9c5456a?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote | From $147.6k | Oct 12 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Founders Associate](https://interviewchamp.ai/jobs/clera-founders-associate-3efde795-c7d5-4c80-bf90-c65543811cc3?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | remote | Remote | $60k–$90k | Oct 12 |
 | **[Lyra Health](https://jobs.lever.co/lyrahealth)** | **[Vice President, Global Accounting](https://interviewchamp.ai/jobs/lyrahealth-vice-president-global-accounting-fa62dc18-6e38-4a6e-aed9-9f6cfddc0220?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote | $213k–$286.7k | Oct 12 |
 | **[Nectar Social](https://jobs.ashbyhq.com/nectar-social)** | **[Sales Enablement Manager](https://interviewchamp.ai/jobs/nectar-social-sales-enablement-manager-e117073c-0ed3-4e23-955b-aaa08013bb7a?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Palo Alto, CA (Remote) | Remote | $160k–$200k | Oct 12 |
@@ -178,11 +182,7 @@ Remote roles in every field, from employers' own career pages. **10,486 are live
 | **[Nutrafol](https://job-boards.greenhouse.io/nutrafol)** | **[Customer Experience Associate (West Coast)](https://interviewchamp.ai/jobs/nutrafol-customer-experience-associate-west-coast-4741968005?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (United States) | Remote | $50k–$55k | Oct 9 |
 | **[Mode Mobile](https://www.modemobile.com)** | **[Sr. Data Engineer (Remote)](https://interviewchamp.ai/jobs/modemobile-sr-data-engineer-remote-8882484002?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote |  | Oct 9 |
 | **[Zwift](https://zwift.com)** | **[Senior Engineering Manager, Game Experience](https://interviewchamp.ai/jobs/zwift-senior-engineering-manager-game-experience-8881996002?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Long Beach, CA; Remote - eligible US locations | Remote |  | Oct 9 |
-| **[Ensono](https://ensono.com)** | **[Client Engagement Director- Preferred location New York, Chicago, Midwest](https://interviewchamp.ai/jobs/ensono-client-engagement-director-preferred-location-new-york-chicago-midwest-4698029005?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - United States | Remote | $175k–$215k | Oct 9 |
-| **[Aerovy](https://jobs.ashbyhq.com/aerovy)** | **[Forward Deployed Engineer (Founding)](https://interviewchamp.ai/jobs/aerovy-forward-deployed-engineer-founding-a9ac9e8b-0930-4213-9176-d96e5a92bd7e?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Seattle Engineering HQ (Remote) | Remote | $150k–$200k | Oct 9 |
-| **[Noodle](https://jobs.lever.co/noodle)** | **[Enrollment Advisor](https://interviewchamp.ai/jobs/noodle-enrollment-advisor-1fbed039-453b-4460-909b-aa9141b2d7e3?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, United States | Remote | $53k–$55k | Oct 9 |
-| **[Praxis Precision Medicines, Inc.](https://job-boards.greenhouse.io/praxisprecisionmedicines)** | **[Marketing Technology & Platform Lead](https://interviewchamp.ai/jobs/praxisprecisionmedicines-marketing-technology-platform-lead-5422865008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States - Remote | Remote | $140k–$170k | Oct 9 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-12 03:44 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-12 06:52 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
