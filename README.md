@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **10,774 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **10,777 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 10,774, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 10,777, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,13 @@ Remote roles in every field, from employers' own career pages. **10,774 are live
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Endpointclinical](https://jobs.lever.co/endpointclinical)** | **[Executive Director, Clinical Supply Consulting & Intelligence](https://interviewchamp.ai/jobs/endpointclinical-executive-director-clinical-supply-consulting-intelligence-ff77666a-5d06-4a11-90b1-4585c72b0eb7?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote US | Remote | $250k–$350k | Oct 13 |
+| **[Wave](https://www.wave.com)** | **[Data Scientist](https://interviewchamp.ai/jobs/wavemm1-data-scientist-6222404004?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote | $130.6k–$236.2k | Oct 13 |
+| **[Orderly](https://job-boards.greenhouse.io/orderly)** | **[Marketing Specialist](https://interviewchamp.ai/jobs/orderly-marketing-specialist-5450633008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote |  | Oct 13 |
+| **[Leap](https://jobs.ashbyhq.com/leap)** | **[Director of Consultant Relations](https://interviewchamp.ai/jobs/leap-director-of-consultant-relations-1bf09414-b64e-4ff7-935a-a6284355cbb1?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | US (Remote) | Remote | $175k–$200k | Oct 13 |
+| **[ElevenLabs](https://elevenlabs.io)** | **[Product Engineer - ElevenAPI](https://interviewchamp.ai/jobs/elevenlabs-product-engineer-elevenapi-108c99e6-ba2b-44a0-b830-7d535e14a152?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote |  | Oct 13 |
+| **[TwinStream](https://job-boards.eu.greenhouse.io)** | **[Agile Delivery Manager](https://interviewchamp.ai/jobs/twinstream-agile-delivery-manager-5003494101?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote |  | Oct 13 |
+| **[Butter](https://jobs.ashbyhq.com/butter)** | **[Head of Content and Media](https://interviewchamp.ai/jobs/butter-head-of-content-and-media-c1b006a4-b447-40ef-b4eb-3e9c4043d33f?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote |  | Oct 13 |
 | **[Belltower Fund Group](https://job-boards.greenhouse.io/belltowerfundgroup)** | **[Fund Accounting Senior Associate](https://interviewchamp.ai/jobs/belltowerfundgroup-fund-accounting-senior-associate-5450585008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote |  | Oct 13 |
 | **[Ondo Finance](https://job-boards.greenhouse.io/ondofinance)** | **[Senior Product Manager, Platform Experience](https://interviewchamp.ai/jobs/ondofinance-senior-product-manager-platform-experience-4391015009?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (US) | Remote |  | Oct 13 |
 | **[Datavant](https://www.datavant.com)** | **[Call Center Supervisor](https://interviewchamp.ai/jobs/datavant2-call-center-supervisor-5441827008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote- United States | Remote |  | Oct 13 |
@@ -175,14 +182,7 @@ Remote roles in every field, from employers' own career pages. **10,774 are live
 | **[Quindar](https://jobs.ashbyhq.com/quindar)** | **[Forward Deployed Engineer](https://interviewchamp.ai/jobs/quindar-forward-deployed-engineer-d191fb3a-8489-4a49-89c1-b3df198e4671?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Denver, CO (Remote) | Remote | $155k–$175k | Oct 12 |
 | **[Abnormal](https://abnormal.ai)** | **[Account Executive, SLED](https://interviewchamp.ai/jobs/abnormalsecurity-account-executive-sled-8017129003?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - USA | Remote | $157.3k–$185k | Oct 12 |
 | **[Vida](https://jobs.lever.co/vida)** | **[Client Success Partner Integration Manager](https://interviewchamp.ai/jobs/vida-client-success-partner-integration-manager-a9ae3182-be5f-4f12-91c7-83fbc4de01c5?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote | $120k–$140k | Oct 12 |
-| **[Lighttable](https://jobs.ashbyhq.com/lighttable)** | **[AEC Product Lead](https://interviewchamp.ai/jobs/lighttable-aec-product-lead-13edb0b1-a04c-40f0-832f-fddba94d3cc2?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Denver, CO HQ (Remote) | Remote | $185k–$200k | Oct 12 |
-| **[Andromeda](https://jobs.ashbyhq.com/andromeda)** | **[Customer Reliability Engineer](https://interviewchamp.ai/jobs/andromeda-customer-reliability-engineer-89f243b7-5a77-4421-a3f3-eeb589f002ab?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote |  | Oct 12 |
-| **[Databricks](https://databricks.com)** | **[Sr. Security Engineer, Enterprise Security](https://interviewchamp.ai/jobs/databricks-sr-security-engineer-enterprise-security-8841962002?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - California | Remote | $167.8k–$230.8k | Oct 12 |
-| **[Afresh](https://job-boards.greenhouse.io/afresh)** | **[Senior Support Engineer I](https://interviewchamp.ai/jobs/afresh-senior-support-engineer-i-6222506004?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - United States | Remote |  | Oct 12 |
-| **[Abnormal](https://abnormal.ai)** | **[Regional Sales Director, US SLED West](https://interviewchamp.ai/jobs/abnormalsecurity-regional-sales-director-us-sled-west-8017101003?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - USA | Remote | $197.7k–$232.5k | Oct 12 |
-| **[Sparksoft Corporation](https://job-boards.greenhouse.io/sparksoftcorporation)** | **[Tier 1 Helpdesk Agent](https://interviewchamp.ai/jobs/sparksoftcorporation-tier-1-helpdesk-agent-5263307007?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote/Hybrid if local to Maryland | Remote |  | Oct 12 |
-| **[Protective](https://jobs.lever.co/protective)** | **[Automotive Claims Adjuster- Bilingual](https://interviewchamp.ai/jobs/protective-automotive-claims-adjuster-bilingual-315b85dc-6b4f-43a4-aace-a4dc6440a667?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Work From Home (Remote) | Remote | $50k–$60k | Oct 12 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-13 06:51 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-13 09:41 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
