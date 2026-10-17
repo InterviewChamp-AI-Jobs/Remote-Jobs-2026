@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **12,599 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **12,598 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 12,599, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 12,598, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Remote roles in every field, from employers' own career pages. **12,599 are live
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Leap](https://jobs.ashbyhq.com/leap)** | **[RCM Analyst](https://interviewchamp.ai/jobs/leap-rcm-analyst-e5eb1aaf-c9bd-4e18-8bb6-44b28c920364?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, US (excluding AK, CA, CO, NY, WA) | Remote | $50k–$55k | Oct 17 |
+| **[DoorDash USA](https://job-boards.greenhouse.io/doordashusa)** | **[Associate, Strategy & Operations, Merchant Onboarding & Experience](https://interviewchamp.ai/jobs/doordashusa-associate-strategy-operations-merchant-onboarding-experience-8289516?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States - Remote | Remote | $74.8k–$110k | Oct 17 |
+| **[Abnormal](https://abnormal.ai)** | **[Software Engineer 1 - Cloud Infrastructure](https://interviewchamp.ai/jobs/abnormalsecurity-software-engineer-1-cloud-infrastructure-8015179003?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - USA | Remote | $122.4k–$176k | Oct 17 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Sales Development Representative](https://interviewchamp.ai/jobs/clera-sales-development-representative-f3686d49-5207-476c-9a63-2acd04e345af?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Salt Lake City (Remote) | Remote |  | Oct 17 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Mid-Level Robotics Engineer, Autonomous Systems](https://interviewchamp.ai/jobs/clera-mid-level-robotics-engineer-autonomous-systems-344975dd-d080-48a6-b389-c6854aa86a79?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | remote | Remote |  | Oct 17 |
 | **[Normalcomputing](https://jobs.ashbyhq.com/normalcomputing)** | **[System Architect Lead](https://interviewchamp.ai/jobs/normalcomputing-system-architect-lead-4a991e16-7097-461c-b048-8d9c97cb33c1?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Silicon Valley (Remote) | Remote | $200k–$400k | Oct 17 |
@@ -159,7 +162,6 @@ Remote roles in every field, from employers' own career pages. **12,599 are live
 | **[Praxis Precision Medicines, Inc.](https://job-boards.greenhouse.io/praxisprecisionmedicines)** | **[Brand Lead, Relutrigine](https://interviewchamp.ai/jobs/praxisprecisionmedicines-brand-lead-relutrigine-5450331008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States - Remote | Remote | $270k–$290k | Oct 16 |
 | **[Abnormal](https://abnormal.ai)** | **[Director, Deal Strategy Operations](https://interviewchamp.ai/jobs/abnormalsecurity-director-deal-strategy-operations-8036053003?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - USA | Remote | $204k–$240k | Oct 16 |
 | **[Abnormal](https://abnormal.ai)** | **[Director, Revenue Systems Analytics](https://interviewchamp.ai/jobs/abnormalsecurity-director-revenue-systems-analytics-8036031003?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - USA | Remote | $210.4k–$302.5k | Oct 16 |
-| **[Abnormal](https://abnormal.ai)** | **[Senior Director, Global Enablement](https://interviewchamp.ai/jobs/abnormalsecurity-senior-director-global-enablement-8036060003?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - USA | Remote | $225.7k–$324.5k | Oct 16 |
 | **[Suvoda](https://www.suvoda.com)** | **[Technical Consultant](https://interviewchamp.ai/jobs/suvoda-technical-consultant-8853302002?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - United States | Remote |  | Oct 16 |
 | **[Newsela](https://newsela.com)** | **[Senior Product Marketing Manager, Core (Remote, US)](https://interviewchamp.ai/jobs/newsela-senior-product-marketing-manager-core-remote-us-8278660?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - US | Remote | $117k–$130k | Oct 16 |
 | **[Salesloft](https://www.salesloft.com)** | **[Enterprise Account Executive](https://interviewchamp.ai/jobs/salesloft-enterprise-account-executive-8261172?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States, Remote | Remote | $88k–$100k | Oct 16 |
@@ -180,9 +182,7 @@ Remote roles in every field, from employers' own career pages. **12,599 are live
 | **[Moxie](https://jobs.ashbyhq.com/moxie)** | **[Director of Engineering](https://interviewchamp.ai/jobs/moxie-director-of-engineering-02afcf0d-21a7-4d02-a589-b295b8d77d75?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - US | Remote | $207k–$253k | Oct 16 |
 | **[Synthego](https://jobs.lever.co/synthego)** | **[Scientific Associate Product Marketing Manager](https://interviewchamp.ai/jobs/synthego-scientific-associate-product-marketing-manager-19694157-b0bf-4dcd-add3-7b2efe9f24f7?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Redwood City, CA (Remote) | Remote | $80k–$105k | Oct 16 |
 | **[Nift](https://job-boards.greenhouse.io/nift)** | **[Accountant](https://interviewchamp.ai/jobs/nift-accountant-5266792007?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, USA | Remote |  | Oct 16 |
-| **[Ramp](https://ramp.com)** | **[Lead, Employment Counsel](https://interviewchamp.ai/jobs/ramp-lead-employment-counsel-b4366e7a-d1e7-498b-8630-4dfea67caca0?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | New York, NY (HQ) (Remote) | Remote | $228k–$313k | Oct 16 |
-| **[Headway](https://jobs.ashbyhq.com/headway)** | **[Director, People Operations](https://interviewchamp.ai/jobs/headway-director-people-operations-ca065802-07db-449d-983d-8239958d2f07?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote | $212k–$265k | Oct 16 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-17 03:53 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-17 07:03 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
