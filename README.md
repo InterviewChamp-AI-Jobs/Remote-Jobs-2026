@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **12,597 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **12,598 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 12,597, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 12,598, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Remote roles in every field, from employers' own career pages. **12,597 are live
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Encore Renewable Energy](https://jobs.lever.co/encore-renewable-energy)** | **[Director, Finance & Investment](https://interviewchamp.ai/jobs/encore-renewable-energy-director-finance-investment-3ac27a24-461b-439c-b48d-a029758ee877?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Burlington, VT (Remote) | Remote | $180k–$210k | Oct 17 |
 | **[Leap](https://jobs.ashbyhq.com/leap)** | **[RCM Analyst](https://interviewchamp.ai/jobs/leap-rcm-analyst-e5eb1aaf-c9bd-4e18-8bb6-44b28c920364?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, US (excluding AK, CA, CO, NY, WA) | Remote | $50k–$55k | Oct 17 |
 | **[DoorDash USA](https://job-boards.greenhouse.io/doordashusa)** | **[Associate, Strategy & Operations, Merchant Onboarding & Experience](https://interviewchamp.ai/jobs/doordashusa-associate-strategy-operations-merchant-onboarding-experience-8289516?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States - Remote | Remote | $74.8k–$110k | Oct 17 |
 | **[Abnormal](https://abnormal.ai)** | **[Software Engineer 1 - Cloud Infrastructure](https://interviewchamp.ai/jobs/abnormalsecurity-software-engineer-1-cloud-infrastructure-8015179003?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - USA | Remote | $122.4k–$176k | Oct 17 |
@@ -181,8 +182,7 @@ Remote roles in every field, from employers' own career pages. **12,597 are live
 | **[TRM Labs](https://trmlabs.com)** | **[Deployment Strategist, Public Sector (Law Enforcement)](https://interviewchamp.ai/jobs/trm-labs-deployment-strategist-public-sector-law-enforcement-f9698535-7237-4656-b4ce-57df8fd7d801?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote |  | Oct 16 |
 | **[Moxie](https://jobs.ashbyhq.com/moxie)** | **[Director of Engineering](https://interviewchamp.ai/jobs/moxie-director-of-engineering-02afcf0d-21a7-4d02-a589-b295b8d77d75?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - US | Remote | $207k–$253k | Oct 16 |
 | **[Synthego](https://jobs.lever.co/synthego)** | **[Scientific Associate Product Marketing Manager](https://interviewchamp.ai/jobs/synthego-scientific-associate-product-marketing-manager-19694157-b0bf-4dcd-add3-7b2efe9f24f7?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Redwood City, CA (Remote) | Remote | $80k–$105k | Oct 16 |
-| **[Nift](https://job-boards.greenhouse.io/nift)** | **[Accountant](https://interviewchamp.ai/jobs/nift-accountant-5266792007?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, USA | Remote |  | Oct 16 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-17 09:49 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-17 12:57 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
