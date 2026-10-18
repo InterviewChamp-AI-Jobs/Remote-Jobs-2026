@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **12,640 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **12,639 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 12,640, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 12,639, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Remote roles in every field, from employers' own career pages. **12,640 are live
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Grafana Labs](https://grafana.com)** | **[Staff FrontEnd Engineer - Platform - App Core Usage \| US \| Remote](https://interviewchamp.ai/jobs/grafanalabs-staff-frontend-engineer-platform-app-core-usage-us-remote-6227872004?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote | $175k–$210k | Oct 18 |
 | **[Normalcomputing](https://jobs.ashbyhq.com/normalcomputing)** | **[Senior Hardware Recruiter](https://interviewchamp.ai/jobs/normalcomputing-senior-hardware-recruiter-ef95693e-f63f-4b8f-8b73-a32cf1ac8df6?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Mountain View (Remote) | Remote | $165k–$195k | Oct 18 |
 | **[Normalcomputing](https://jobs.ashbyhq.com/normalcomputing)** | **[Recruiting Coordinator](https://interviewchamp.ai/jobs/normalcomputing-recruiting-coordinator-db59c5a4-0630-4b69-9590-a8b44c39c8aa?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Mountain View (Remote) | Remote | $110k–$140k | Oct 18 |
 | **[Cyberhaven](https://cyberhaven.com)** | **[Enterprise Account Executive](https://interviewchamp.ai/jobs/cyberhaven-enterprise-account-executive-ff08a2e9-5d48-42e5-8ffa-80b768bf78e5?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Atlanta (Remote) | Remote | $150k–$175k | Oct 18 |
@@ -181,8 +182,7 @@ Remote roles in every field, from employers' own career pages. **12,640 are live
 | **[Suvoda](https://www.suvoda.com)** | **[Technical Consultant](https://interviewchamp.ai/jobs/suvoda-technical-consultant-8853302002?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - United States | Remote |  | Oct 16 |
 | **[Newsela](https://newsela.com)** | **[Senior Product Marketing Manager, Core (Remote, US)](https://interviewchamp.ai/jobs/newsela-senior-product-marketing-manager-core-remote-us-8278660?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - US | Remote | $117k–$130k | Oct 16 |
 | **[Salesloft](https://www.salesloft.com)** | **[Enterprise Account Executive](https://interviewchamp.ai/jobs/salesloft-enterprise-account-executive-8261172?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States, Remote | Remote | $88k–$100k | Oct 16 |
-| **[AlphaSense](https://alphasense.com)** | **[Sector Project Lead - Healthcare, Directed Content](https://interviewchamp.ai/jobs/alphasense-sector-project-lead-healthcare-directed-content-8894741002?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | New York, New York, United States; Remote - United States | Remote | $110k–$130k | Oct 16 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-18 09:49 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-18 12:57 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
