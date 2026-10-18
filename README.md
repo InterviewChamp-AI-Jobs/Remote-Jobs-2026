@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **12,643 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **12,640 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 12,643, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 12,640, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Remote roles in every field, from employers' own career pages. **12,643 are live
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Normalcomputing](https://jobs.ashbyhq.com/normalcomputing)** | **[Senior Hardware Recruiter](https://interviewchamp.ai/jobs/normalcomputing-senior-hardware-recruiter-ef95693e-f63f-4b8f-8b73-a32cf1ac8df6?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Mountain View (Remote) | Remote | $165k–$195k | Oct 18 |
+| **[Normalcomputing](https://jobs.ashbyhq.com/normalcomputing)** | **[Recruiting Coordinator](https://interviewchamp.ai/jobs/normalcomputing-recruiting-coordinator-db59c5a4-0630-4b69-9590-a8b44c39c8aa?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Mountain View (Remote) | Remote | $110k–$140k | Oct 18 |
 | **[Cyberhaven](https://cyberhaven.com)** | **[Enterprise Account Executive](https://interviewchamp.ai/jobs/cyberhaven-enterprise-account-executive-ff08a2e9-5d48-42e5-8ffa-80b768bf78e5?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Atlanta (Remote) | Remote | $150k–$175k | Oct 18 |
 | **[Shield AI](https://jobs.lever.co/shieldai)** | **[Staff Engineer, Software (R6331)](https://interviewchamp.ai/jobs/shieldai-staff-engineer-software-r6331-dd7070fb-bc02-4ab0-930f-c3c2e933353e?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote | $140k–$210k | Oct 18 |
 | **[P 1 Ai](https://jobs.ashbyhq.com/p-1%20ai)** | **[Founding Account Executive](https://interviewchamp.ai/jobs/p-1-ai-founding-account-executive-0767b2cf-65a9-405d-902b-69ebb4ab4feb?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote | $150k–$200k | Oct 18 |
@@ -56,7 +58,7 @@ Remote roles in every field, from employers' own career pages. **12,643 are live
 | **[Leap](https://jobs.ashbyhq.com/leap)** | **[RCM Analyst](https://interviewchamp.ai/jobs/leap-rcm-analyst-e5eb1aaf-c9bd-4e18-8bb6-44b28c920364?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, US (excluding AK, CA, CO, NY, WA) | Remote | $50k–$55k | Oct 17 |
 | **[DoorDash USA](https://job-boards.greenhouse.io/doordashusa)** | **[Associate, Strategy & Operations, Merchant Onboarding & Experience](https://interviewchamp.ai/jobs/doordashusa-associate-strategy-operations-merchant-onboarding-experience-8289516?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States - Remote | Remote | $74.8k–$110k | Oct 17 |
 | **[Abnormal](https://abnormal.ai)** | **[Software Engineer 1 - Cloud Infrastructure](https://interviewchamp.ai/jobs/abnormalsecurity-software-engineer-1-cloud-infrastructure-8015179003?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - USA | Remote | $122.4k–$176k | Oct 17 |
-| **[Normalcomputing](https://jobs.ashbyhq.com/normalcomputing)** | **[System Architect Lead](https://interviewchamp.ai/jobs/normalcomputing-system-architect-lead-4a991e16-7097-461c-b048-8d9c97cb33c1?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Silicon Valley (Remote) | Remote | $200k–$400k | Oct 17 |
+| **[Normalcomputing](https://jobs.ashbyhq.com/normalcomputing)** | **[System Architect Lead](https://interviewchamp.ai/jobs/normalcomputing-system-architect-lead-4a991e16-7097-461c-b048-8d9c97cb33c1?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Mountain View (Remote) | Remote | $200k–$400k | Oct 17 |
 | **[Redis](https://jobs.ashbyhq.com/redis)** | **[Regional Sales Director - West](https://interviewchamp.ai/jobs/redis-regional-sales-director-west-4a268133-b302-44fb-ba95-ab5c99a851b7?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote | $178k–$220k | Oct 17 |
 | **[Future](https://job-boards.greenhouse.io/future)** | **[Health Coach](https://interviewchamp.ai/jobs/future-health-coach-4744885005?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote |  | Oct 17 |
 | **[Mercury](https://job-boards.greenhouse.io/mercury)** | **[Senior Account Executive - Credit & Lending Products](https://interviewchamp.ai/jobs/mercury-senior-account-executive-credit-lending-products-6220946004?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco, CA, New York, NY, Portland, OR, or Remote within United States | Remote | $169.9k–$212.4k | Oct 17 |
@@ -180,9 +182,7 @@ Remote roles in every field, from employers' own career pages. **12,643 are live
 | **[Newsela](https://newsela.com)** | **[Senior Product Marketing Manager, Core (Remote, US)](https://interviewchamp.ai/jobs/newsela-senior-product-marketing-manager-core-remote-us-8278660?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - US | Remote | $117k–$130k | Oct 16 |
 | **[Salesloft](https://www.salesloft.com)** | **[Enterprise Account Executive](https://interviewchamp.ai/jobs/salesloft-enterprise-account-executive-8261172?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States, Remote | Remote | $88k–$100k | Oct 16 |
 | **[AlphaSense](https://alphasense.com)** | **[Sector Project Lead - Healthcare, Directed Content](https://interviewchamp.ai/jobs/alphasense-sector-project-lead-healthcare-directed-content-8894741002?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | New York, New York, United States; Remote - United States | Remote | $110k–$130k | Oct 16 |
-| **[Ramp](https://ramp.com)** | **[Chief Compliance Officer, Ramp Advisory LLC](https://interviewchamp.ai/jobs/ramp-chief-compliance-officer-ramp-advisory-llc-abd1360f-bd9d-4649-ac02-9af2a437ff98?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | New York, NY (HQ) (Remote) | Remote | $170k–$300k | Oct 16 |
-| **[YipitData](https://job-boards.greenhouse.io/yipitdata)** | **[Solutions Lead, Consulting/Banking](https://interviewchamp.ai/jobs/yipitdata-solutions-lead-consulting-banking-8282078?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | US Remote | Remote |  | Oct 16 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-18 07:02 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-18 09:49 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
