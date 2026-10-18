@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **12,637 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **12,633 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 12,637, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 12,633, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Remote roles in every field, from employers' own career pages. **12,637 are live
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Mistral AI](https://mistral.ai)** | **[Head of Analyst Relations](https://interviewchamp.ai/jobs/mistral-ai-head-of-analyst-relations-fd2c564e-83b9-4371-9ea8-4d93b4c83c8b?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | New York (Remote) | Remote |  | Oct 18 |
+| **[Natera](https://job-boards.greenhouse.io/natera)** | **[PSC Manager - Olympia, WA](https://interviewchamp.ai/jobs/natera-psc-manager-olympia-wa-6227881004?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | US Remote | Remote |  | Oct 18 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Founding Product Designer/Engineer](https://interviewchamp.ai/jobs/clera-founding-product-designer-engineer-7b4184ce-700e-4ef7-bb76-ca93f9e84ea7?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | New York (Remote) | Remote | $160k–$220k | Oct 18 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Fractional Founding Designer](https://interviewchamp.ai/jobs/clera-fractional-founding-designer-9d3d93dc-7efa-42b9-ae3c-bc34513c32df?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | remote | Remote |  | Oct 18 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Senior Solutions Engineer](https://interviewchamp.ai/jobs/clera-senior-solutions-engineer-b73125c0-8c1d-4b51-b696-c95ec9c1c3ca?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Chicago (Remote) | Remote | $140k–$180k | Oct 18 |
@@ -180,9 +182,7 @@ Remote roles in every field, from employers' own career pages. **12,637 are live
 | **[Blackbird Health](https://job-boards.greenhouse.io/blackbirdhealth)** | **[Psychiatric Mental Health Nurse Practitioner, VA License - PMHNP](https://interviewchamp.ai/jobs/blackbirdhealth-psychiatric-mental-health-nurse-practitioner-va-license-pmhnp-5455603008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, Virginia | Remote | $135k–$145k | Oct 16 |
 | **[Blackbird Health](https://job-boards.greenhouse.io/blackbirdhealth)** | **[Psychiatric Mental Health Nurse Practitioner, PA License - PMHNP](https://interviewchamp.ai/jobs/blackbirdhealth-psychiatric-mental-health-nurse-practitioner-pa-license-pmhnp-5455568008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, Pennsylvania | Remote | $135k–$145k | Oct 16 |
 | **[Canals](https://jobs.ashbyhq.com/canals)** | **[Field Marketing Manager](https://interviewchamp.ai/jobs/canals-field-marketing-manager-b93747b4-e6df-4a4f-9b82-ed0c6e8ab57a?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | New York (Remote) | Remote |  | Oct 16 |
-| **[Daybreak Health](https://job-boards.greenhouse.io/daybreakhealth)** | **[Licensed Therapist (Adults 18-60) \| Remote \| California License](https://interviewchamp.ai/jobs/daybreakhealth-licensed-therapist-adults-18-60-remote-california-license-5267935007?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | California (Remote) | Remote |  | Oct 16 |
-| **[Hiya](https://jobs.ashbyhq.com/hiya)** | **[Head of Forward Engineering](https://interviewchamp.ai/jobs/hiya-head-of-forward-engineering-f98bdc5e-7268-44d0-b87f-30dbb53a9587?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Seattle, US (Remote) | Remote | $197k–$260k | Oct 16 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-18 18:52 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-18 21:47 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
