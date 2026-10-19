@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **12,626 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **12,624 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 12,626, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 12,624, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Remote roles in every field, from employers' own career pages. **12,626 are live
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Eon](https://job-boards.eu.greenhouse.io)** | **[Growth Marketing Manager](https://interviewchamp.ai/jobs/eonio-growth-marketing-manager-4883923101?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | US - Remote | Remote |  | Oct 19 |
+| **[Zeely](https://jobs.ashbyhq.com/zeely)** | **[Senior DevOps Engineer (Infrastructure)](https://interviewchamp.ai/jobs/zeely-senior-devops-engineer-infrastructure-4001f2b6-d3f0-440d-b2a2-1dbd6c2091c8?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote |  | Oct 19 |
 | **[Nexxa](https://jobs.ashbyhq.com/nexxa)** | **[Senior Software Development Engineer in Test (SDET), QA - AI Systems](https://interviewchamp.ai/jobs/nexxa-senior-software-development-engineer-in-test-sdet-qa-ai-systems-21e899e9-9a45-4d34-838b-3b69256a27d7?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | SF Bay area (Remote) | Remote |  | Oct 19 |
 | **[Grafana Labs](https://grafana.com)** | **[Staff Product Manager, Enterprise Deployment Solutions \| USA \| Remote](https://interviewchamp.ai/jobs/grafanalabs-staff-product-manager-enterprise-deployment-solutions-usa-remote-6227911004?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote | $208.6k–$250.3k | Oct 19 |
 | **[Anthropic](https://anthropic.com)** | **[Software Engineer, Memory & Search](https://interviewchamp.ai/jobs/anthropic-software-engineer-memory-search-5456453008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | New York City, NY; New York City, NY \| Seattle, WA; Remote-Friendly, United States; San Francisco, CA \| New York City, NY \| Seattle, WA | Remote | $320k–$485k | Oct 19 |
@@ -180,9 +182,7 @@ Remote roles in every field, from employers' own career pages. **12,626 are live
 | **[AffirmedRx, PBC](https://job-boards.greenhouse.io/affirmedrxpbc)** | **[Business Analyst, Data Operations](https://interviewchamp.ai/jobs/affirmedrxpbc-business-analyst-data-operations-5455942008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote |  | Oct 16 |
 | **[Charthop](https://jobs.ashbyhq.com/charthop)** | **[Senior Manager Technical Services](https://interviewchamp.ai/jobs/charthop-senior-manager-technical-services-0e788396-b4b0-4b7b-bf96-26a6eba0d7b3?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote US | Remote | $140k–$180k | Oct 16 |
 | **[Hiya](https://jobs.ashbyhq.com/hiya)** | **[Strategic Customer Success Manager- Operators, AT&T](https://interviewchamp.ai/jobs/hiya-strategic-customer-success-manager-operators-at-t-a3c53ec0-c4c7-47dc-bcf6-e9ccd1cd257e?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Dallas, Texas (Remote) | Remote | $138.1k–$198.6k | Oct 16 |
-| **[OpenAI](https://jobs.ashbyhq.com/openai)** | **[Head of First Party Chip Finance](https://interviewchamp.ai/jobs/openai-head-of-first-party-chip-finance-593258c8-d382-406f-ba9f-f75415232d44?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco (Remote) | Remote | $293k–$342k | Oct 16 |
-| **[Decagon](https://jobs.ashbyhq.com/decagon)** | **[Senior Commercial Counsel](https://interviewchamp.ai/jobs/decagon-senior-commercial-counsel-31509831-36c9-43bb-b1b7-d4ba6b0ef32d?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco (Remote) | Remote | $250k–$300k | Oct 16 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-19 07:17 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-19 09:59 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
