@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **15,205 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **15,208 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 15,205, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 15,208, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,8 +32,13 @@ Remote roles in every field, from employers' own career pages. **15,205 are live
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Hinge Health](https://jobs.ashbyhq.com/hinge-health)** | **[Staff Product Designer](https://interviewchamp.ai/jobs/hinge-health-staff-product-designer-f371b713-f793-4097-8ead-30e9335c3e61?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco-HQ (Remote) | Remote | $195k–$270k | Oct 24 |
+| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Robotics Engineer, Autonomous Systems](https://interviewchamp.ai/jobs/clera-robotics-engineer-autonomous-systems-ac4e05b2-ef21-426b-93da-fcda288b2ed5?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | remote | Remote |  | Oct 24 |
+| **[Study.com C](https://job-boards.greenhouse.io/studycontractors)** | **[Graphic Design Course Editor (Contract)](https://interviewchamp.ai/jobs/studycontractors-graphic-design-course-editor-contract-5463009008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote US | Remote |  | Oct 24 |
+| **[Hoyoverse](https://jobs.ashbyhq.com/hoyoverse)** | **[Senior Engine Programmer, Generalist](https://interviewchamp.ai/jobs/hoyoverse-senior-engine-programmer-generalist-16744e4c-af1b-45d0-9c30-7cf829cab7a3?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Los Angeles (Remote) | Remote | $180k–$300k | Oct 24 |
 | **[Sentry](https://sentry.io)** | **[Director of Engineering, Platform (Runtime & Stateful Systems)](https://interviewchamp.ai/jobs/sentry-director-of-engineering-platform-runtime-stateful-systems-b7c17591-c9f1-449a-b0c1-39f2d6ff650e?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco, California (Remote) | Remote | $300k–$450k | Oct 24 |
 | **[Steer](https://job-boards.greenhouse.io/steercrm)** | **[Account Executive, Upsell](https://interviewchamp.ai/jobs/steercrm-account-executive-upsell-5274592007?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote | From $60k | Oct 24 |
+| **[Cinder](https://jobs.ashbyhq.com/cinder)** | **[Cinder Expert Network](https://interviewchamp.ai/jobs/cinder-cinder-expert-network-bcf28e5e-e5d1-48ce-bf0a-cb71074246ed?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote |  | Oct 24 |
 | **[OpenAI](https://jobs.ashbyhq.com/openai)** | **[Community Communications Lead](https://interviewchamp.ai/jobs/openai-community-communications-lead-c2921990-3fff-469a-a117-f6a8f2a3d50c?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco (Remote) | Remote | $240k–$266k | Oct 24 |
 | **[Jellyfish](https://jobs.ashbyhq.com/jellyfishcareers)** | **[Senior Motion Designer](https://interviewchamp.ai/jobs/jellyfishcareers-senior-motion-designer-2d6beb91-a97c-445d-9e9b-da5e9ed285fa?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | New York (Remote) | Remote | $89k–$116k | Oct 24 |
 | **[Parachute Health](https://parachute.health)** | **[Category Analyst](https://interviewchamp.ai/jobs/parachutehealth-category-analyst-5274296007?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | U.S. Remote | Remote |  | Oct 24 |
@@ -177,12 +182,7 @@ Remote roles in every field, from employers' own career pages. **15,205 are live
 | **[Pivotal Health](https://jobs.ashbyhq.com/pivotal-health)** | **[Growth Marketing Manager](https://interviewchamp.ai/jobs/pivotal-health-growth-marketing-manager-242acdcb-7e63-421f-8fc7-8e78c54a09e2?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - US | Remote | $130k–$165k | Oct 23 |
 | **[BPM](https://jobs.lever.co/bpmcpa)** | **[Chief Information Officer](https://interviewchamp.ai/jobs/bpmcpa-chief-information-officer-7371cbb3-ffc6-4f26-8935-3284497a96da?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote | $300k–$350k | Oct 23 |
 | **[Datavant](https://www.datavant.com)** | **[Coding Consultant Outpaitent](https://interviewchamp.ai/jobs/datavant2-coding-consultant-outpaitent-5457320008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - United States | Remote |  | Oct 23 |
-| **[Hypori](https://job-boards.greenhouse.io/hypori)** | **[Channel Account Manager, DIB/MSSP](https://interviewchamp.ai/jobs/hypori-channel-account-manager-dib-mssp-6233847004?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - US | Remote |  | Oct 23 |
-| **[Headway](https://jobs.ashbyhq.com/headway)** | **[Care Navigator, Care Navigation Program (Contract)](https://interviewchamp.ai/jobs/headway-care-navigator-care-navigation-program-contract-a75e57d4-61da-422e-8889-8afe0ac6b850?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote |  | Oct 23 |
-| **[Rithum LinkedIn Board](https://job-boards.greenhouse.io/rithumliboard)** | **[Technical Account Manager](https://interviewchamp.ai/jobs/rithumliboard-technical-account-manager-8319467?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States - Remote | Remote | $60k–$100k | Oct 23 |
-| **[Submittable](https://job-boards.greenhouse.io/submittable)** | **[Vice President, Engineering](https://interviewchamp.ai/jobs/submittable-vice-president-engineering-6233846004?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (U.S.) | Remote | $220k–$260k | Oct 23 |
-| **[Engine](https://job-boards.greenhouse.io/engine)** | **[Manager, Implementation Management](https://interviewchamp.ai/jobs/engine-manager-implementation-management-8042245003?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - US | Remote | $102k–$140k | Oct 23 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-24 03:56 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-24 07:06 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
