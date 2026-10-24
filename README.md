@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **15,207 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **15,208 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 15,207, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 15,208, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Remote roles in every field, from employers' own career pages. **15,207 are live
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Operations Intern](https://interviewchamp.ai/jobs/clera-operations-intern-d5e8d923-bf76-413d-b46a-5ad2da90dad4?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Salt Lake City (Remote) | Remote |  | Oct 24 |
+| **[Pinterest](https://pinterest.com)** | **[Strategic Sourcing Specialist II](https://interviewchamp.ai/jobs/pinterest-strategic-sourcing-specialist-ii-8282844?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, US | Remote | $81.9k–$168.7k | Oct 24 |
+| **[Pinterest](https://pinterest.com)** | **[Designer](https://interviewchamp.ai/jobs/pinterest-designer-8268336?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, US | Remote | $81.9k–$168.7k | Oct 24 |
 | **[Summit Therapeutics](https://job-boards.greenhouse.io/summittherapeutics)** | **[Associate Director, Patient Engagement and Advocacy](https://interviewchamp.ai/jobs/summittherapeutics-associate-director-patient-engagement-and-advocacy-4462160009?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (US) | Remote | $169k–$198k | Oct 24 |
 | **[Crossmedia Inc](https://boards.greenhouse.io/crossmediainc)** | **[Supervisor, Paid Social Media](https://interviewchamp.ai/jobs/crossmediainc-supervisor-paid-social-media-5274578007?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (USA) | Remote |  | Oct 24 |
 | **[Ennoble Care](https://job-boards.greenhouse.io/ennoblecare)** | **[Palliative Care Transitions Specialist (Remote)](https://interviewchamp.ai/jobs/ennoblecare-palliative-care-transitions-specialist-remote-4724554006?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote | From $40k | Oct 24 |
@@ -106,7 +109,6 @@ Remote roles in every field, from employers' own career pages. **15,207 are live
 | **[CodePath](https://job-boards.greenhouse.io/codepath)** | **[Partner Engagement and Communications Manager](https://interviewchamp.ai/jobs/codepath-partner-engagement-and-communications-manager-5269919007?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, United States | Remote | $85k–$110k | Oct 23 |
 | **[Wisetack](https://job-boards.greenhouse.io/wisetack)** | **[Customer Experience Associate I](https://interviewchamp.ai/jobs/wisetack-customer-experience-associate-i-4745584005?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, USA | Remote |  | Oct 23 |
 | **[Inkitt](https://jobs.lever.co/inkitt)** | **[ASO Manager](https://interviewchamp.ai/jobs/inkitt-aso-manager-ec9696a9-35b8-4135-b9e3-713d75762bc9?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote US | Remote | $60k–$90k | Oct 23 |
-| **[Pinterest](https://pinterest.com)** | **[Retail Transformation Lead](https://interviewchamp.ai/jobs/pinterest-retail-transformation-lead-8287192?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, US | Remote | $132.3k–$272.4k | Oct 23 |
 | **[GHX](https://ghx.com)** | **[Strategy & Corporate Development Associate - Investment Banking, Management Consulting, or PE background](https://interviewchamp.ai/jobs/globalhealthcareexchangeinc-strategy-corporate-development-associate-investment-banking-management-consulting-or-pe-background-4747378005?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Office Location or Remote - USA | Remote | $128k–$170k | Oct 23 |
 | **[Uvcyber](https://jobs.lever.co/uvcyber)** | **[Senior Network Engineer](https://interviewchamp.ai/jobs/uvcyber-senior-network-engineer-3d007287-71de-45b4-b7ce-e7663d0bef48?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Arizona (Remote) | Remote | $100k–$160k | Oct 23 |
 | **[Aurorasolar](https://jobs.ashbyhq.com/aurorasolar)** | **[Director, Business Systems](https://interviewchamp.ai/jobs/aurorasolar-director-business-systems-dfd4da2f-e07a-48d4-8bbf-7ee76cc42b60?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote | $164.9k–$267.7k | Oct 23 |
@@ -180,9 +182,7 @@ Remote roles in every field, from employers' own career pages. **15,207 are live
 | **[Motive](https://motive.com)** | **[Senior Marketing Operations Specialist](https://interviewchamp.ai/jobs/gomotive-senior-marketing-operations-specialist-8733611002?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States - Remote | Remote | $82k–$114k | Oct 23 |
 | **[ParetoHealth](https://job-boards.greenhouse.io/paretocaptiveservicesllc)** | **[Principal Data Architect](https://interviewchamp.ai/jobs/paretocaptiveservicesllc-principal-data-architect-4721859006?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote |  | Oct 23 |
 | **[Bedrock Robotics](https://jobs.ashbyhq.com/bedrock-robotics)** | **[Technical Program Manager, Safety](https://interviewchamp.ai/jobs/bedrock-robotics-technical-program-manager-safety-e818c514-58d0-4e67-8e6b-a4c6e062f201?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco, CA (Remote) | Remote |  | Oct 23 |
-| **[Code3](https://job-boards.greenhouse.io/code3)** | **[Head of Paid Search](https://interviewchamp.ai/jobs/code3-head-of-paid-search-8319424?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, United States - Eastern Time Zone preferred | Remote | $134.5k–$185k | Oct 23 |
-| **[FanDuel](https://fanduel.com)** | **[Social Media Senior Associate](https://interviewchamp.ai/jobs/fanduel-social-media-senior-associate-8319216?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote USA | Remote | $79k–$99k | Oct 23 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-24 13:01 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-24 15:51 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
