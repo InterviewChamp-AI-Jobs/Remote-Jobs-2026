@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **15,206 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **15,207 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 15,206, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 15,207, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Remote roles in every field, from employers' own career pages. **15,206 are live
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Summit Therapeutics](https://job-boards.greenhouse.io/summittherapeutics)** | **[Associate Director, Patient Engagement and Advocacy](https://interviewchamp.ai/jobs/summittherapeutics-associate-director-patient-engagement-and-advocacy-4462160009?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (US) | Remote | $169k–$198k | Oct 24 |
+| **[Crossmedia Inc](https://boards.greenhouse.io/crossmediainc)** | **[Supervisor, Paid Social Media](https://interviewchamp.ai/jobs/crossmediainc-supervisor-paid-social-media-5274578007?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (USA) | Remote |  | Oct 24 |
 | **[Ennoble Care](https://job-boards.greenhouse.io/ennoblecare)** | **[Palliative Care Transitions Specialist (Remote)](https://interviewchamp.ai/jobs/ennoblecare-palliative-care-transitions-specialist-remote-4724554006?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote | From $40k | Oct 24 |
 | **[Hinge Health](https://jobs.ashbyhq.com/hinge-health)** | **[Staff Product Designer](https://interviewchamp.ai/jobs/hinge-health-staff-product-designer-f371b713-f793-4097-8ead-30e9335c3e61?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco-HQ (Remote) | Remote | $195k–$270k | Oct 24 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Robotics Engineer, Autonomous Systems](https://interviewchamp.ai/jobs/clera-robotics-engineer-autonomous-systems-ac4e05b2-ef21-426b-93da-fcda288b2ed5?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | remote | Remote |  | Oct 24 |
@@ -180,9 +182,7 @@ Remote roles in every field, from employers' own career pages. **15,206 are live
 | **[Bedrock Robotics](https://jobs.ashbyhq.com/bedrock-robotics)** | **[Technical Program Manager, Safety](https://interviewchamp.ai/jobs/bedrock-robotics-technical-program-manager-safety-e818c514-58d0-4e67-8e6b-a4c6e062f201?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco, CA (Remote) | Remote |  | Oct 23 |
 | **[Code3](https://job-boards.greenhouse.io/code3)** | **[Head of Paid Search](https://interviewchamp.ai/jobs/code3-head-of-paid-search-8319424?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, United States - Eastern Time Zone preferred | Remote | $134.5k–$185k | Oct 23 |
 | **[FanDuel](https://fanduel.com)** | **[Social Media Senior Associate](https://interviewchamp.ai/jobs/fanduel-social-media-senior-associate-8319216?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote USA | Remote | $79k–$99k | Oct 23 |
-| **[Pivotal Health](https://jobs.ashbyhq.com/pivotal-health)** | **[Growth Marketing Manager](https://interviewchamp.ai/jobs/pivotal-health-growth-marketing-manager-242acdcb-7e63-421f-8fc7-8e78c54a09e2?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - US | Remote | $130k–$165k | Oct 23 |
-| **[BPM](https://jobs.lever.co/bpmcpa)** | **[Chief Information Officer](https://interviewchamp.ai/jobs/bpmcpa-chief-information-officer-7371cbb3-ffc6-4f26-8935-3284497a96da?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote | $300k–$350k | Oct 23 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-24 09:52 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-24 13:01 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
