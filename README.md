@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **15,199 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **15,203 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 15,199, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 15,203, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,9 +32,13 @@ Remote roles in every field, from employers' own career pages. **15,199 are live
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Terzo](https://job-boards.greenhouse.io/terzo)** | **[Senior Staff Platform Engineer](https://interviewchamp.ai/jobs/terzo-senior-staff-platform-engineer-4466722009?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | US - Remote | Remote |  | Oct 24 |
+| **[Smartleaf](https://jobs.ashbyhq.com/smartleaf)** | **[IT & Productivity Engineer](https://interviewchamp.ai/jobs/smartleaf-it-productivity-engineer-219c6d4e-ad6c-4aca-8b29-653a9715ed86?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Boston (Remote) | Remote | $100k–$150k | Oct 24 |
+| **[Terac](https://jobs.ashbyhq.com/terac)** | **[Technical Professionals: Evaluate Technical Presentation Decks](https://interviewchamp.ai/jobs/terac-technical-professionals-evaluate-technical-presentation-decks-c6c49c26-5229-4bd4-900c-cae1660caf48?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote |  | Oct 24 |
+| **[Liftoff](https://liftoff.io)** | **[Corporate Tax Manager](https://interviewchamp.ai/jobs/liftoff-corporate-tax-manager-8319782?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote |  | Oct 24 |
+| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Operations Associate](https://interviewchamp.ai/jobs/clera-operations-associate-0dab996a-6962-4de7-aef6-5c6f99490a1a?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Salt Lake City (Remote) | Remote | $55k–$65k | Oct 24 |
+| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Sales Development Representative](https://interviewchamp.ai/jobs/clera-sales-development-representative-9d27640e-738f-44db-b086-9f98ecf255e0?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Salt Lake City (Remote) | Remote |  | Oct 24 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Account Executive](https://interviewchamp.ai/jobs/clera-account-executive-edd90800-8f6c-4f6c-83d2-083196c913bc?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Chicago (Remote) | Remote | $160k–$200k | Oct 24 |
-| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Business Development Manager](https://interviewchamp.ai/jobs/clera-business-development-manager-734b2c9a-e26d-4bc4-aab9-2caa116b0f3e?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | remote | Remote | $240k–$300k | Oct 24 |
-| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Senior Integration Engineer](https://interviewchamp.ai/jobs/clera-senior-integration-engineer-bb02b924-94f5-4b80-a51f-5510ab40a646?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | New York (Remote) | Remote |  | Oct 24 |
 | **[Praxis Precision Medicines, Inc.](https://job-boards.greenhouse.io/praxisprecisionmedicines)** | **[Account Specialist (Athens, GA)](https://interviewchamp.ai/jobs/praxisprecisionmedicines-account-specialist-athens-ga-5463138008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States - Remote | Remote | $160k–$192k | Oct 24 |
 | **[Praxis Precision Medicines, Inc.](https://job-boards.greenhouse.io/praxisprecisionmedicines)** | **[Account Specialist (Macon, GA)](https://interviewchamp.ai/jobs/praxisprecisionmedicines-account-specialist-macon-ga-5462429008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States - Remote | Remote | $160k–$192k | Oct 24 |
 | **[Praxis Precision Medicines, Inc.](https://job-boards.greenhouse.io/praxisprecisionmedicines)** | **[Account Specialist (Peachtree City, GA)](https://interviewchamp.ai/jobs/praxisprecisionmedicines-account-specialist-peachtree-city-ga-5463136008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States - Remote | Remote | $160k–$192k | Oct 24 |
@@ -178,11 +182,7 @@ Remote roles in every field, from employers' own career pages. **15,199 are live
 | **[EPIC Brokers](https://job-boards.greenhouse.io/edgewoodpartnersinsurancecenter)** | **[Commercial Account Manager -Small Business](https://interviewchamp.ai/jobs/edgewoodpartnersinsurancecenter-commercial-account-manager-small-business-8893317002?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote US Based | Remote |  | Oct 23 |
 | **[Reddit](https://reddit.com)** | **[Staff Machine Learning Engineer, Retrieval & Targeting](https://interviewchamp.ai/jobs/reddit-staff-machine-learning-engineer-retrieval-targeting-8316086?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - United States | Remote | $230k–$322k | Oct 23 |
 | **[Indigenous Pact PBC, Inc.](https://job-boards.greenhouse.io/indigenouspactpbcinc)** | **[Senior Coding Quality Auditor](https://interviewchamp.ai/jobs/indigenouspactpbcinc-senior-coding-quality-auditor-4746690005?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote |  | Oct 23 |
-| **[Reactivate](https://job-boards.greenhouse.io/reactivate)** | **[Temp Manager, Business Process & Systems Improvement](https://interviewchamp.ai/jobs/reactivate-temp-manager-business-process-systems-improvement-4724478006?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote |  | Oct 23 |
-| **[Terrabis](https://job-boards.greenhouse.io/terrabis)** | **[Marketing Coordinator, Ecommerce](https://interviewchamp.ai/jobs/terrabis-marketing-coordinator-ecommerce-5462863008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote | $55k–$65k | Oct 23 |
-| **[Oscar Health](https://oscarhealth.com)** | **[Operations Analyst, Plan Loading](https://interviewchamp.ai/jobs/oscar-operations-analyst-plan-loading-8286491?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote | $62.1k–$81.5k | Oct 23 |
-| **[Protective](https://jobs.lever.co/protective)** | **[Installation Technician- Stargard](https://interviewchamp.ai/jobs/protective-installation-technician-stargard-7258d16c-8522-4554-ac0e-ee6ca815cfa1?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Luis Obispo, CA (Remote) | Remote |  | Oct 23 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-24 18:54 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-24 21:49 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
