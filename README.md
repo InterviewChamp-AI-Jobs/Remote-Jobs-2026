@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **15,203 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **15,196 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 15,203, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 15,196, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Remote roles in every field, from employers' own career pages. **15,203 are live
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Tailscale](https://job-boards.greenhouse.io/tailscale)** | **[Head of Communications](https://interviewchamp.ai/jobs/tailscale-head-of-communications-4746917005?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (United States) | Remote | $190k–$237k | Oct 25 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Account Executive](https://interviewchamp.ai/jobs/clera-account-executive-0df935b8-13f0-4935-8f4f-aa9b17b13c3e?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Salt Lake City (Remote) | Remote | $100k–$180k | Oct 25 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Operations Intern](https://interviewchamp.ai/jobs/clera-operations-intern-5d56a61d-5a01-4ca4-a814-c23888b06e10?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Salt Lake City (Remote) | Remote |  | Oct 25 |
 | **[Terac](https://jobs.ashbyhq.com/terac)** | **[Sales Development Representatives: Live Website Pitch Call](https://interviewchamp.ai/jobs/terac-sales-development-representatives-live-website-pitch-call-ad86e3d8-2333-42f5-9e13-e21eb72307cb?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote |  | Oct 24 |
@@ -181,8 +182,7 @@ Remote roles in every field, from employers' own career pages. **15,203 are live
 | **[OpenLoop Health Partners](https://jobs.ashbyhq.com/openlooppartners)** | **[Telemedicine Registered Nurse](https://interviewchamp.ai/jobs/openlooppartners-telemedicine-registered-nurse-3bf1d8bf-6d46-4b43-96dc-18f3294bff75?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States - Remote | Remote |  | Oct 23 |
 | **[Skydio](https://skydio.com)** | **[Embedded Software Engineer Intern - Winter 2027](https://interviewchamp.ai/jobs/skydio-embedded-software-engineer-intern-winter-2027-d79ccbaa-2901-4303-bd90-675db7802366?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Mateo, California, United States (Remote) | Remote |  | Oct 23 |
 | **[Stitch Fix](https://www.stitchfix.com)** | **[Private Brands Design and Brand Lead](https://interviewchamp.ai/jobs/stitchfix-private-brands-design-and-brand-lead-8289597?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, USA (Bay Area preferred) | Remote | $82.9k–$149k | Oct 23 |
-| **[Spyre Therapeutics](https://job-boards.greenhouse.io/spyretherapeutics)** | **[Executive Director, Clinical Operations](https://interviewchamp.ai/jobs/spyretherapeutics-executive-director-clinical-operations-5462415008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | US- Remote | Remote | $285k–$310k | Oct 23 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-25 03:56 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-25 07:07 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
