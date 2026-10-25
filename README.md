@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **15,203 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **15,204 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 15,203, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 15,204, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Remote roles in every field, from employers' own career pages. **15,203 are live
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Terac](https://jobs.ashbyhq.com/terac)** | **[Sales Development Representatives: Live Website Pitch Call](https://interviewchamp.ai/jobs/terac-sales-development-representatives-live-website-pitch-call-ad86e3d8-2333-42f5-9e13-e21eb72307cb?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote |  | Oct 24 |
+| **[Lyra Health](https://jobs.lever.co/lyrahealth)** | **[Sr. Billing Operations Associate](https://interviewchamp.ai/jobs/lyrahealth-sr-billing-operations-associate-68d74c24-2b94-4e54-85f4-3b00043b8c77?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote | $68k–$103.5k | Oct 24 |
+| **[Hearst](https://job-boards.greenhouse.io/hearst)** | **[Production Editor](https://interviewchamp.ai/jobs/hearst-production-editor-4466446009?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Houston, TX, United States; Remote - US | Remote |  | Oct 24 |
 | **[Terzo](https://job-boards.greenhouse.io/terzo)** | **[Senior Staff Platform Engineer](https://interviewchamp.ai/jobs/terzo-senior-staff-platform-engineer-4466722009?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | US - Remote | Remote |  | Oct 24 |
 | **[Smartleaf](https://jobs.ashbyhq.com/smartleaf)** | **[IT & Productivity Engineer](https://interviewchamp.ai/jobs/smartleaf-it-productivity-engineer-219c6d4e-ad6c-4aca-8b29-653a9715ed86?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Boston (Remote) | Remote | $100k–$150k | Oct 24 |
 | **[Terac](https://jobs.ashbyhq.com/terac)** | **[Technical Professionals: Evaluate Technical Presentation Decks](https://interviewchamp.ai/jobs/terac-technical-professionals-evaluate-technical-presentation-decks-c6c49c26-5229-4bd4-900c-cae1660caf48?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote |  | Oct 24 |
@@ -179,10 +182,7 @@ Remote roles in every field, from employers' own career pages. **15,203 are live
 | **[Skydio](https://skydio.com)** | **[Embedded Software Engineer Intern - Winter 2027](https://interviewchamp.ai/jobs/skydio-embedded-software-engineer-intern-winter-2027-d79ccbaa-2901-4303-bd90-675db7802366?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Mateo, California, United States (Remote) | Remote |  | Oct 23 |
 | **[Stitch Fix](https://www.stitchfix.com)** | **[Private Brands Design and Brand Lead](https://interviewchamp.ai/jobs/stitchfix-private-brands-design-and-brand-lead-8289597?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, USA (Bay Area preferred) | Remote | $82.9k–$149k | Oct 23 |
 | **[Spyre Therapeutics](https://job-boards.greenhouse.io/spyretherapeutics)** | **[Executive Director, Clinical Operations](https://interviewchamp.ai/jobs/spyretherapeutics-executive-director-clinical-operations-5462415008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | US- Remote | Remote | $285k–$310k | Oct 23 |
-| **[EPIC Brokers](https://job-boards.greenhouse.io/edgewoodpartnersinsurancecenter)** | **[Commercial Account Manager -Small Business](https://interviewchamp.ai/jobs/edgewoodpartnersinsurancecenter-commercial-account-manager-small-business-8893317002?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote US Based | Remote |  | Oct 23 |
-| **[Reddit](https://reddit.com)** | **[Staff Machine Learning Engineer, Retrieval & Targeting](https://interviewchamp.ai/jobs/reddit-staff-machine-learning-engineer-retrieval-targeting-8316086?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - United States | Remote | $230k–$322k | Oct 23 |
-| **[Indigenous Pact PBC, Inc.](https://job-boards.greenhouse.io/indigenouspactpbcinc)** | **[Senior Coding Quality Auditor](https://interviewchamp.ai/jobs/indigenouspactpbcinc-senior-coding-quality-auditor-4746690005?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote |  | Oct 23 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-24 21:49 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-25 01:02 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
