@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **16,186 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **16,188 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 16,186, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 16,188, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,10 @@ Remote roles in every field, from employers' own career pages. **16,186 are live
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[NeuralConcept](https://neuralconcept.com)** | **[Platform Deployment Engineer - West Coast](https://interviewchamp.ai/jobs/neuralconcept-platform-deployment-engineer-west-coast-89039678-9741-4d0a-b99b-b2bb9f22e6c1?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | West Coast (San Francisco/Bay Area) (Remote) | Remote | $200k–$250k | Oct 29 |
+| **[HighLevel](https://jobs.lever.co/gohighlevel)** | **[Sr. Enablement Partner](https://interviewchamp.ai/jobs/gohighlevel-sr-enablement-partner-3837d342-9ba9-48db-a043-61c7e472af86?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote |  | Oct 29 |
+| **[Chainalysis](https://jobs.ashbyhq.com/chainalysis-careers)** | **[Recruiter, GTM - AMER](https://interviewchamp.ai/jobs/chainalysis-careers-recruiter-gtm-amer-c99c2c85-d9f1-4a9b-8222-92d08a1d5f4d?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - USA | Remote | $96k–$125k | Oct 29 |
+| **[Hyperbolic](https://jobs.ashbyhq.com/hyperbolic)** | **[Executive Assistant](https://interviewchamp.ai/jobs/hyperbolic-executive-assistant-7ac3f3d8-c1a9-4c0f-b100-536341a9c922?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco, CA (Remote) | Remote |  | Oct 29 |
 | **[Tyson &amp; Mendes LLP](https://job-boards.greenhouse.io/tysonmendesllp)** | **[Senior Counsel](https://interviewchamp.ai/jobs/tysonmendesllp-senior-counsel-5466715008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | California (Remote) | Remote | $160k–$190k | Oct 29 |
 | **[Tarro](https://jobs.ashbyhq.com/tarro)** | **[Product Designer](https://interviewchamp.ai/jobs/tarro-product-designer-8ed91a83-064f-44f0-965e-74feba313409?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Mateo, CA (Remote) | Remote |  | Oct 29 |
 | **[JFrog](https://jfrog.com)** | **[Senior Professional Services DevOps Engineer](https://interviewchamp.ai/jobs/jfrog-senior-professional-services-devops-engineer-8285651?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, US | Remote | $150k–$180k | Oct 29 |
@@ -178,11 +182,7 @@ Remote roles in every field, from employers' own career pages. **16,186 are live
 | **[Abridge](https://abridge.com)** | **[Leadership Recruiter](https://interviewchamp.ai/jobs/abridge-leadership-recruiter-5eaa14a4-004f-4b7a-a16c-590e67f561e7?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | SF Office (Remote) | Remote | $174k–$217k | Oct 28 |
 | **[Hiya](https://jobs.ashbyhq.com/hiya)** | **[Senior Web Marketing Manager](https://interviewchamp.ai/jobs/hiya-senior-web-marketing-manager-a6d1759c-5833-45ee-8972-55dfd57f518f?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Seattle, US (Remote) | Remote | $123.5k–$175k | Oct 28 |
 | **[Dandy](https://jobs.ashbyhq.com/dandy)** | **[Business Development Representative (UT - College Grad)](https://interviewchamp.ai/jobs/dandy-business-development-representative-ut-college-grad-a2c25144-1357-47ac-9b27-07c50e42134e?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | USA - Lehi UT (Remote) | Remote | $65k | Oct 28 |
-| **[Foley](https://jobs.ashbyhq.com/foley)** | **[Senior Manager, Customer Success](https://interviewchamp.ai/jobs/foley-senior-manager-customer-success-62c5e5e2-40cc-437a-84d7-864db9954b98?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote US | Remote | $90k–$130k | Oct 28 |
-| **[ChargePoint](https://www.chargepoint.com)** | **[Technical Marketing Manager](https://interviewchamp.ai/jobs/chargepoint-technical-marketing-manager-8922699002?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | US Remote | Remote | $147.8k–$195.5k | Oct 28 |
-| **[Honeycomb Insurance](https://job-boards.greenhouse.io/honeycombinsurance)** | **[Senior Underwriter, East](https://interviewchamp.ai/jobs/honeycombinsurance-senior-underwriter-east-4748668005?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | East Coast - Remote | Remote | $100k–$120k | Oct 28 |
-| **[CaptivateIQ](https://jobs.lever.co/captivateiq)** | **[Sr. Engineering Manager - Core Platform](https://interviewchamp.ai/jobs/captivateiq-sr-engineering-manager-core-platform-f7e7fa1b-2024-4423-81d5-1b061101e4ee?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote USA | Remote | $186.1k–$292.8k | Oct 28 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-29 07:28 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-29 10:12 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
