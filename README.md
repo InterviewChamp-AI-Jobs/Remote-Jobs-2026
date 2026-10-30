@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **16,527 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **16,525 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 16,527, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 16,525, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,13 @@ Remote roles in every field, from employers' own career pages. **16,527 are live
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Pencil](https://jobs.ashbyhq.com/pencil)** | **[Agentic Client Services Lead](https://interviewchamp.ai/jobs/pencil-agentic-client-services-lead-99c2f56d-eba1-4e6d-bf2e-ac409f2444b8?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Americas (Remote) | Remote |  | Oct 30 |
+| **[Sweedpos.com](https://jobs.ashbyhq.com/sweedpos.com)** | **[Product Solutions - Implementation Manager](https://interviewchamp.ai/jobs/sweedpos-com-product-solutions-implementation-manager-e6058054-8d24-4fa4-b6fe-312ceeb694a3?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | US-based (Remote) | Remote |  | Oct 30 |
+| **[Feedbackfruits](https://jobs.ashbyhq.com/feedbackfruits)** | **[Customer Success Manager North America](https://interviewchamp.ai/jobs/feedbackfruits-customer-success-manager-north-america-ccecfbef-df23-42f6-9b05-e302a8b7aaf9?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | US Remote | Remote |  | Oct 30 |
+| **[incident.io](https://jobs.ashbyhq.com/incident)** | **[Ops Associate](https://interviewchamp.ai/jobs/incident-ops-associate-f4c59372-94c9-4cde-aef5-438fc1bc260d?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco (Remote) | Remote | $90k–$110k | Oct 30 |
+| **[Vay](https://job-boards.eu.greenhouse.io)** | **[Senior Accountant](https://interviewchamp.ai/jobs/vay-senior-accountant-5012726101?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - USA | Remote |  | Oct 30 |
+| **[Doonails](https://jobs.lever.co/doonails)** | **[Senior Influencer Marketing Manager US (m/f/d) (copy)](https://interviewchamp.ai/jobs/doonails-senior-influencer-marketing-manager-us-m-f-d-copy-3a591a00-0832-48dd-99c4-93155fbe0a11?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | New York (Remote) | Remote |  | Oct 30 |
+| **[Spotdraft](https://jobs.ashbyhq.com/spotdraft)** | **[Global SDR Manager](https://interviewchamp.ai/jobs/spotdraft-global-sdr-manager-705ea854-c4ff-48ed-a5ee-e0b7dbfc10bd?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | SpotDraft Inc. NY (Remote) | Remote |  | Oct 30 |
 | **[Affirm](https://affirm.com)** | **[Customer Operations Associate I](https://interviewchamp.ai/jobs/affirm-customer-operations-associate-i-8040790003?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote US | Remote | $50k–$70k | Oct 30 |
 | **[stripe](https://stripe.com)** | **[Marketing Operations Program Manager](https://interviewchamp.ai/jobs/stripe-marketing-operations-program-manager-8283786?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | US Remote | Remote |  | Oct 30 |
 | **[vClusterLabs](https://jobs.ashbyhq.com/vClusterLabs)** | **[Sr. Global Alliance Director, NVIDIA and AI Clouds](https://interviewchamp.ai/jobs/vclusterlabs-sr-global-alliance-director-nvidia-and-ai-clouds-cc532bad-b05a-43c3-8a28-a2bd99966769?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | USA - San Francisco (Remote) | Remote | $225k–$280k | Oct 30 |
@@ -175,14 +182,7 @@ Remote roles in every field, from employers' own career pages. **16,527 are live
 | **[Ambient.ai](https://jobs.ashbyhq.com/ambient.ai)** | **[Content Marketing Manager](https://interviewchamp.ai/jobs/ambient-ai-content-marketing-manager-160d729c-442d-4382-8b6f-42e4eba127b0?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Redwood City (Remote) | Remote | $120k–$150k | Oct 29 |
 | **[Cribl](https://cribl.io)** | **[Commercial Sales Representative](https://interviewchamp.ai/jobs/cribl-commercial-sales-representative-5852256004?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - Austin, Texas | Remote | $75k–$90k | Oct 29 |
 | **[Fireworks](https://jobs.ashbyhq.com/fireworks)** | **[Lead, Pricing &amp; Monetization Strategy](https://interviewchamp.ai/jobs/fireworks-lead-pricing-monetization-strategy-8b70300d-2a25-44b1-a3ab-694063957e4d?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Mateo (Remote) | Remote | $170k–$240k | Oct 29 |
-| **[Maven Clinic](https://job-boards.greenhouse.io/mavenclinic)** | **[Senior Business Recruiter - Contract](https://interviewchamp.ai/jobs/mavenclinic-senior-business-recruiter-contract-8924628002?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote |  | Oct 29 |
-| **[Datadog](https://datadoghq.com)** | **[Regional Manager, Sales Engineering - Key Accounts (East)](https://interviewchamp.ai/jobs/datadog-regional-manager-sales-engineering-key-accounts-east-8284995?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | New York, USA, Remote | Remote | $150k–$200k | Oct 29 |
-| **[Element451](https://jobs.ashbyhq.com/element451)** | **[Integrations Architect](https://interviewchamp.ai/jobs/element451-integrations-architect-ef164db3-effa-4213-b1b9-eea59ea0a187?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, United States | Remote |  | Oct 29 |
-| **[Jellyfish](https://jobs.ashbyhq.com/jellyfishcareers)** | **[Senior Manager, Ad Tech Solutions](https://interviewchamp.ai/jobs/jellyfishcareers-senior-manager-ad-tech-solutions-6337a32f-01bd-4584-b279-c8866be12858?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | New York (Remote) | Remote | $85k–$105k | Oct 29 |
-| **[Kestra Medical Technologies Inc.](https://job-boards.greenhouse.io/kestramedicaltechnologiesinc)** | **[Senior Clinical Specialist](https://interviewchamp.ai/jobs/kestramedicaltechnologiesinc-senior-clinical-specialist-4473460009?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, USA | Remote | $120k–$145k | Oct 29 |
-| **[Optro](https://jobs.ashbyhq.com/optro)** | **[Helpdesk Analyst II (Remote, USA)](https://interviewchamp.ai/jobs/optro-helpdesk-analyst-ii-remote-usa-41504ce3-a8e5-431b-9a74-ff889a252efa?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote | $57.6k–$86.4k | Oct 29 |
-| **[Real Chemistry](https://job-boards.greenhouse.io/realchemistry)** | **[Senior Director, Entertainment &amp; Sports](https://interviewchamp.ai/jobs/realchemistry-senior-director-entertainment-sports-5467539008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - USA | Remote | $135k–$180k | Oct 29 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-30 10:12 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-30 13:23 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
