@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **16,823 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **16,817 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 16,823, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 16,817, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,10 @@ Remote roles in every field, from employers' own career pages. **16,823 are live
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Nava PBC](https://job-boards.greenhouse.io/navapbc)** | **[Senior Communications Design Manager](https://interviewchamp.ai/jobs/navapbc-senior-communications-design-manager-4469796009?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote | $126k–$143.1k | Nov 1 |
+| **[Intellistack](https://jobs.ashbyhq.com/Intellistack)** | **[Talent Acquisition &amp; Experience Partner](https://interviewchamp.ai/jobs/intellistack-talent-acquisition-experience-partner-b966c1a8-b9c9-408c-b0ba-846b46f85423?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote/United States | Remote | $105k–$115k | Nov 1 |
+| **[Manifold Industries](https://jobs.ashbyhq.com/manifold-industries)** | **[Forward Deployed Engineer](https://interviewchamp.ai/jobs/manifold-industries-forward-deployed-engineer-f91ead63-e0b6-4763-82cc-a64424319c30?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | D.C. Metro (Remote) | Remote |  | Nov 1 |
+| **[Marble Health](https://jobs.ashbyhq.com/marblehealth)** | **[Customer Experience Associate](https://interviewchamp.ai/jobs/marblehealth-customer-experience-associate-c4b5c5d3-806e-4340-8cb1-e5a202aeec2c?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | New York City (Remote) | Remote | $65k–$80k | Nov 1 |
 | **[Mecka.ai](https://jobs.ashbyhq.com/mecka.ai)** | **[Partner Operations Manager](https://interviewchamp.ai/jobs/mecka-ai-partner-operations-manager-006bc75d-f4aa-4be9-9903-1180da947c23?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (Anywhere) | Remote | $80k–$100k | Oct 31 |
 | **[Mecka.ai](https://jobs.ashbyhq.com/mecka.ai)** | **[Partnerships Lead (Supply)](https://interviewchamp.ai/jobs/mecka-ai-partnerships-lead-supply-f0abcb85-df49-45ae-a88c-0ce3eac89e24?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (Anywhere) | Remote | $115k–$140k | Oct 31 |
 | **[Marble Health](https://jobs.ashbyhq.com/marblehealth)** | **[Care Operations Associate (Remote, Mountain/Pacific)](https://interviewchamp.ai/jobs/marblehealth-care-operations-associate-remote-mountain-pacific-b61d52b0-0a79-4e57-ad4d-4ad5e06c9ea4?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, California | Remote | $50k–$60k | Oct 31 |
@@ -178,11 +182,7 @@ Remote roles in every field, from employers' own career pages. **16,823 are live
 | **[Upside](https://jobs.ashbyhq.com/upside)** | **[Lifecycle Marketing Principal, Consumer Growth &amp; Experience](https://interviewchamp.ai/jobs/upside-lifecycle-marketing-principal-consumer-growth-experience-097475ad-e51b-47e2-b4bc-022d0bd948fe?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | NYC (Remote) | Remote | $170k–$200k | Oct 30 |
 | **[Form Energy](https://jobs.ashbyhq.com/formenergy)** | **[Recruiting Coordinator](https://interviewchamp.ai/jobs/formenergy-recruiting-coordinator-ead47239-785d-41fa-bc98-7d7750635023?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Weirton, WV (Remote) | Remote |  | Oct 30 |
 | **[Bland](https://jobs.ashbyhq.com/bland)** | **[Director of Technology Partnerships](https://interviewchamp.ai/jobs/bland-director-of-technology-partnerships-0393fafd-0681-4b60-82e0-9f97e8e62393?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco or Remote | Remote | $160k–$240k | Oct 30 |
-| **[PeopleFinders](https://job-boards.greenhouse.io/peoplefinders)** | **[Information Security Lead](https://interviewchamp.ai/jobs/peoplefinders-information-security-lead-5279840007?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote | $150k–$165k | Oct 30 |
-| **[Rowan Digital Infrastructure](https://jobs.ashbyhq.com/rowan)** | **[Senior Manager, Site Development](https://interviewchamp.ai/jobs/rowan-senior-manager-site-development-29b7031f-0611-4ca4-9668-ac7afda95fae?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Denver, CO Office (Remote) | Remote | $170k–$205k | Oct 30 |
-| **[Literati](https://jobs.ashbyhq.com/literati)** | **[Logistics Routing Administrator](https://interviewchamp.ai/jobs/literati-logistics-routing-administrator-8e7edc58-2166-4e92-a225-6b43772f98fd?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | FC Arlington, TX (Remote) | Remote |  | Oct 30 |
-| **[Hearst](https://job-boards.greenhouse.io/hearst)** | **[Online News Producer - Part-Time](https://interviewchamp.ai/jobs/hearst-online-news-producer-part-time-4473449009?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote - US; San Francisco, CA, United States | Remote |  | Oct 30 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-11-01 06:27 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-01 16:09 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
