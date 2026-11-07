@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **18,342 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **18,338 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 18,342, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 18,338, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Remote roles in every field, from employers' own career pages. **18,342 are live
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Terac](https://jobs.ashbyhq.com/terac)** | **[Theme Park Vacationers\: 35-Minute Survey on Resort Experiences](https://interviewchamp.ai/jobs/terac-theme-park-vacationers-35-minute-survey-on-resort-experiences-9c1eedb9-d749-46ae-82a7-728f29035f0c?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote |  | Nov 7 |
+| **[Liquid AI](https://jobs.ashbyhq.com/liquid-ai)** | **[Strategic Partnerships, Silicon Ecosystem](https://interviewchamp.ai/jobs/liquid-ai-strategic-partnerships-silicon-ecosystem-04fe3e31-d08e-43f5-bc51-dc7e0a3fede2?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco (Remote) | Remote |  | Nov 7 |
 | **[New Era Technology](https://job-boards.greenhouse.io/neweratech)** | **[Solution Executive, Managed Services](https://interviewchamp.ai/jobs/neweratech-solution-executive-managed-services-8934021002?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote |  | Nov 7 |
 | **[True Environmental](https://jobs.lever.co/true-environmental)** | **[Geospatial and Digital Innovation Development Leader](https://interviewchamp.ai/jobs/true-environmental-geospatial-and-digital-innovation-development-leader-0b363389-983a-4290-be76-94ed71c944a1?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote |  | Nov 7 |
 | **[Higgsfield](https://jobs.ashbyhq.com/higgsfieldai)** | **[Data Engineer](https://interviewchamp.ai/jobs/higgsfieldai-data-engineer-2fce2fe7-b554-4330-8fed-c59fa85f3415?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | San Francisco Bay Area, USA (Remote) | Remote | $200k–$260k | Nov 7 |
@@ -180,9 +182,7 @@ Remote roles in every field, from employers' own career pages. **18,342 are live
 | **[Finni Health](https://jobs.ashbyhq.com/finni-health)** | **[Multi-State ABA Operations Manager](https://interviewchamp.ai/jobs/finni-health-multi-state-aba-operations-manager-996e904f-a8d9-4008-a44c-ead697fd8172?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | US Remote | Remote | $90k–$120k | Nov 6 |
 | **[BigID](https://bigid.com)** | **[Staff Client Support Engineer](https://interviewchamp.ai/jobs/bigid-staff-client-support-engineer-8933995002?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote- USA East Coast | Remote | $120k–$140k | Nov 6 |
 | **[LeoLabs, Inc.](https://job-boards.greenhouse.io/leolabsinc)** | **[Part-Time Recruiter / Talent Sourcer](https://interviewchamp.ai/jobs/leolabsinc-part-time-recruiter-talent-sourcer-4485077009?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote |  | Nov 6 |
-| **[LeoLabs, Inc.](https://job-boards.greenhouse.io/leolabsinc)** | **[Part-Time Recruiting &amp; HR Coordinator](https://interviewchamp.ai/jobs/leolabsinc-part-time-recruiting-hr-coordinator-4485010009?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote |  | Nov 6 |
-| **[Mudflap](https://mudflap.com)** | **[Customer Support Team Lead](https://interviewchamp.ai/jobs/mudflap-customer-support-team-lead-dec93945-ed05-4c83-90b7-0ea826b9cfd2?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote | $60k–$70k | Nov 6 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-11-07 10:29 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-07 17:47 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
