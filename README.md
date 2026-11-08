@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote roles in every field, from employers' own career pages. **18,331 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote roles in every field, from employers' own career pages. **18,334 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 18,331, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
+👉 **See all 18,334, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,10 @@ Remote roles in every field, from employers' own career pages. **18,331 are live
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Assembled](https://assembled.com)** | **[Enterprise Account Executive, West](https://interviewchamp.ai/jobs/assembledhq-enterprise-account-executive-west-539df75d-076c-4017-8d4e-55b868a31069?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States (Remote) | Remote | $300k–$350k | Nov 8 |
+| **[Harvey](https://jobs.ashbyhq.com/harvey)** | **[Associate Legal Engineer](https://interviewchamp.ai/jobs/harvey-associate-legal-engineer-28b62bdc-3d36-47eb-980d-4f52455cc3f2?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Dallas (Remote) | Remote | $180k–$250k | Nov 8 |
+| **[Harvey](https://jobs.ashbyhq.com/harvey)** | **[Associate Legal Engineer](https://interviewchamp.ai/jobs/harvey-associate-legal-engineer-e2613ef0-b37c-42ab-aae2-3b47162a9401?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Chicago (Remote) | Remote | $180k–$250k | Nov 8 |
+| **[Harvey](https://jobs.ashbyhq.com/harvey)** | **[Associate Legal Engineer](https://interviewchamp.ai/jobs/harvey-associate-legal-engineer-eb6318f2-957c-4d2b-8c44-054a0ef049a3?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Boston (Remote) | Remote | $180k–$250k | Nov 8 |
 | **[EXA](https://jobs.ashbyhq.com/exa)** | **[Support Engineer, PAYGO](https://interviewchamp.ai/jobs/exa-support-engineer-paygo-f4dd7ae8-cf72-4634-b708-742601b9061c?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote | $115k–$225k | Nov 8 |
 | **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Operations Intern](https://interviewchamp.ai/jobs/clera-operations-intern-5c1f661e-9c3a-4cca-bd47-ba792ded5f3b?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Salt Lake City (Remote) | Remote |  | Nov 8 |
 | **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Account Executive](https://interviewchamp.ai/jobs/clera-account-executive-e5c30100-d61b-4ca8-8a6b-12956e36a8b8?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Salt Lake City (Remote) | Remote | $100k–$180k | Nov 8 |
@@ -178,11 +182,7 @@ Remote roles in every field, from employers' own career pages. **18,331 are live
 | **[AiDASH, Inc.](https://job-boards.greenhouse.io/aidashinc)** | **[Product Consulting Manager](https://interviewchamp.ai/jobs/aidashinc-product-consulting-manager-4485151009?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | US Remote | Remote | $190k–$230k | Nov 6 |
 | **[Affirm](https://affirm.com)** | **[Director, Product Management (Consumer)](https://interviewchamp.ai/jobs/affirm-director-product-management-consumer-8044715003?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote US | Remote | $300k–$360k | Nov 6 |
 | **[Ultragenyx Pharmaceutical](https://job-boards.greenhouse.io/ultragenyxpharmaceutical)** | **[UltraCare Liaison (Atlanta)](https://interviewchamp.ai/jobs/ultragenyxpharmaceutical-ultracare-liaison-atlanta-4751871005?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | United States - Remote | Remote | $153.1k–$189.1k | Nov 6 |
-| **[Generate Biomedicines](https://generatebiomedicines.com)** | **[Director, Clinical Scientist (Respiratory)](https://interviewchamp.ai/jobs/generatebiomedicines-director-clinical-scientist-respiratory-4725188006?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote | Remote | $186k–$279k | Nov 6 |
-| **[Remedy](https://job-boards.greenhouse.io/remedy)** | **[Staff Physician (Telehealth)](https://interviewchamp.ai/jobs/remedy-staff-physician-telehealth-8934017002?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, US | Remote |  | Nov 6 |
-| **[Tailscale](https://job-boards.greenhouse.io/tailscale)** | **[Senior Analyst Relations Manager](https://interviewchamp.ai/jobs/tailscale-senior-analyst-relations-manager-4752040005?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote (United States) | Remote | $142k–$177k | Nov 6 |
-| **[AGE Solutions](https://job-boards.greenhouse.io/agecareers)** | **[Junior Technical Editor](https://interviewchamp.ai/jobs/agecareers-junior-technical-editor-5476040008?utm_source=github&utm_medium=referral&utm_campaign=remote_jobs)** | Remote, US | Remote | From $50k | Nov 6 |
 
 More lists: [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-11-08 06:21 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-08 13:44 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
